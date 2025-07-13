@@ -1,0 +1,1029 @@
+,PLAYER,GROSS P/W,GROSS P/Y,CONTRACT EXP.,CLUB,AGE,POS BASIC,POS SPECIFIC,NATIONALITY
+0,Harry Kane,"€ 480,769","€ 25,000,000","Jun 30, 2027",Bayern Munich,30,Starter,F,England
+1,Manuel Neuer,"€ 403,846","€ 21,000,000","Jun 30, 2025",Bayern Munich,37,Reserve,K,Germany
+2,Thomas Müller,"€ 394,231","€ 20,500,000","Jun 30, 2024",Bayern Munich,33,Starter,F,Germany
+3,Leroy Sané,"€ 384,615","€ 20,000,000","Jun 30, 2025",Bayern Munich,27,Starter,F,Germany
+4,Joshua Kimmich,"€ 375,000","€ 19,500,000","Jun 30, 2025",Bayern Munich,28,Starter,M,Germany
+5,Serge Gnabry,"€ 362,885","€ 18,870,000","Jun 30, 2026",Bayern Munich,28,Reserve,F,Germany
+6,Leon Goretzka,"€ 346,154","€ 18,000,000","Jun 30, 2026",Bayern Munich,28,Starter,M,Germany
+7,Kingsley Coman,"€ 326,923","€ 17,000,000","Jun 30, 2027",Bayern Munich,27,Starter,F,France
+8,Matthijs de Ligt,"€ 307,692","€ 16,000,000","Jun 30, 2027",Bayern Munich,24,Reserve,D,Netherlands
+9,Min-jae Kim,"€ 230,769","€ 12,000,000","Jun 30, 2028",Bayern Munich,26,Starter,D,South Korea
+10,Alphonso Davies,"€ 216,346","€ 11,250,000","Jun 30, 2025",Bayern Munich,22,Starter,D,Canada
+11,Sébastien Haller,"€ 211,538","€ 11,000,000","Jun 30, 2026",Borussia Dortmund,29,Starter,F,Cote d'Ivoire
+12,Dayot Upamecano,"€ 192,308","€ 10,000,000","Jun 30, 2026",Bayern Munich,24,Starter,D,France
+13,Timo Werner,"€ 192,308","€ 10,000,000","Jun 30, 2026",Leipzig,27,Reserve,F,Germany
+14,Niklas Süle,"€ 192,308","€ 10,000,000","Jun 30, 2026",Borussia Dortmund,28,Reserve,D,Germany
+15,Dani Olmo,"€ 181,346","€ 9,430,000","Jun 30, 2027",Leipzig,25,Starter,F,Spain
+16,Gregor Kobel,"€ 173,077","€ 9,000,000","Jun 30, 2028",Borussia Dortmund,25,Starter,K,Switzerland
+17,Konrad Laimer,"€ 173,077","€ 9,000,000","Jun 30, 2027",Bayern Munich,26,Reserve,M,Austria
+18,Raphaël Guerreiro,"€ 153,846","€ 8,000,000","Jun 30, 2026",Bayern Munich,29,Reserve,D,Portugal
+19,Noussair Mazraoui,"€ 153,846","€ 8,000,000","Jun 30, 2026",Bayern Munich,25,Starter,D,Morocco
+20,Emre Can,"€ 153,846","€ 8,000,000","Jun 30, 2026",Borussia Dortmund,29,Starter,M,Germany
+21,David Raum,"€ 145,192","€ 7,550,000","Jun 30, 2027",Leipzig,25,Starter,D,Germany
+22,Matthias Ginter,"€ 145,192","€ 7,550,000","Jun 30, 2027",Freiburg,29,Starter,D,Germany
+23,Marcel Sabitzer,"€ 144,231","€ 7,500,000","Jun 30, 2027",Borussia Dortmund,29,Starter,M,Austria
+24,Thomas Meunier,"€ 144,231","€ 7,500,000","Jun 30, 2024",Borussia Dortmund,31,Reserve,D,Belgium
+25,Eric Maxim Choupo-Moting,"€ 134,615","€ 7,000,000","Jun 30, 2024",Bayern Munich,34,Reserve,F,Cameroon
+26,Julian Brandt,"€ 134,615","€ 7,000,000","Jun 30, 2026",Borussia Dortmund,27,Starter,F,Germany
+27,Mats Hummels,"€ 134,615","€ 7,000,000","Jun 30, 2024",Borussia Dortmund,34,Starter,D,Germany
+28,Marco Reus,"€ 134,615","€ 7,000,000","Jun 30, 2024",Borussia Dortmund,34,Starter,F,Germany
+29,Willi Orbán,"€ 126,923","€ 6,600,000","Jun 30, 2027",Leipzig,30,Starter,D,Hungary
+30,Yussuf Poulsen,"€ 126,923","€ 6,600,000","Jun 30, 2026",Leipzig,29,Starter,F,Denmark
+31,Emil Forsberg,"€ 126,923","€ 6,600,000","Jun 30, 2025",Leipzig,31,Reserve,F,Sweden
+32,Felix Nmecha,"€ 115,385","€ 6,000,000","Jun 30, 2028",Borussia Dortmund,22,Reserve,M,Germany
+33,Niclas Füllkrug,"€ 115,385","€ 6,000,000","Jun 30, 2026",Borussia Dortmund,30,Reserve,F,Germany
+34,Alejandro Grimaldo,"€ 115,385","€ 6,000,000","Jun 30, 2027",Bayer Leverkusen,27,Starter,D,Spain
+35,Patrik Schick,"€ 115,385","€ 6,000,000","Jun 30, 2027",Bayer Leverkusen,27,Reserve,F,Czech Republic
+36,Donyell Malen,"€ 115,385","€ 6,000,000","Jun 30, 2026",Borussia Dortmund,24,Starter,F,Netherlands
+37,Loïs Openda,"€ 108,846","€ 5,660,000","Jun 30, 2028",Leipzig,23,Starter,F,Belgium
+38,Péter Gulácsi,"€ 107,692","€ 5,600,000","Jun 30, 2025",Leipzig,33,Reserve,K,Hungary
+39,Maximilian Arnold,"€ 105,769","€ 5,500,000","Jun 30, 2026",Wolfsburg,29,Starter,M,Germany
+40,Lukas Klostermann,"€ 100,000","€ 5,200,000","Jun 30, 2024",Leipzig,27,Reserve,D,Germany
+41,Exequiel Palacios,"€ 96,154","€ 5,000,000","Jun 30, 2028",Bayer Leverkusen,24,Starter,M,Argentina
+42,Jamal Musiala,"€ 96,154","€ 5,000,000","Jun 30, 2026",Bayern Munich,20,Reserve,F,Germany
+43,Edmond Tapsoba,"€ 96,154","€ 5,000,000","Jun 30, 2028",Bayer Leverkusen,24,Starter,D,Burkina Faso
+44,Karim Adeyemi,"€ 96,154","€ 5,000,000","Jun 30, 2027",Borussia Dortmund,21,Reserve,F,Germany
+45,Alexander Nübel,"€ 96,154","€ 5,000,000","Jun 30, 2024",Stuttgart,26,Starter,K,Germany
+46,Alassane Plea,"€ 90,769","€ 4,720,000","Jun 30, 2025",Monchengladbach,30,Starter,F,France
+47,Lovro Majer,"€ 90,769","€ 4,720,000","Jun 30, 2028",Wolfsburg,25,Starter,M,Croatia
+48,Nico Schlotterbeck,"€ 90,769","€ 4,720,000","Jun 30, 2027",Borussia Dortmund,23,Starter,D,Germany
+49,Ramy Bensebaini,"€ 86,538","€ 4,500,000","Jun 30, 2027",Borussia Dortmund,28,Starter,D,Algeria
+50,Granit Xhaka,"€ 79,808","€ 4,150,000","Jun 30, 2028",Bayer Leverkusen,30,Starter,M,Switzerland
+51,Jonas Hofmann,"€ 76,923","€ 4,000,000","Jun 30, 2027",Bayer Leverkusen,31,Starter,F,Germany
+52,Florian Neuhaus,"€ 76,923","€ 4,000,000","Jun 30, 2027",Monchengladbach,26,Starter,M,Germany
+53,Xaver Schlager,"€ 76,923","€ 4,000,000","Jun 30, 2026",Leipzig,25,Starter,M,Austria
+54,Mathys Tel,"€ 76,923","€ 4,000,000","Jun 30, 2025",Bayern Munich,18,Reserve,F,France
+55,Andrej Kramaric,"€ 76,923","€ 4,000,000","Jun 30, 2025",Hoffenheim,32,Starter,F,Croatia
+56,Koen Casteels,"€ 76,923","€ 4,000,000","Jun 30, 2024",Wolfsburg,31,Starter,K,Belgium
+57,Jeremie Frimpong,"€ 76,923","€ 4,000,000","Jun 30, 2028",Bayer Leverkusen,22,Starter,D,Netherlands
+58,Julian Weigl,"€ 76,154","€ 3,960,000","Jun 30, 2028",Monchengladbach,27,Starter,M,Germany
+59,Diadié Samassékou,"€ 75,000","€ 3,900,000","Jun 30, 2025",Hoffenheim,27,Reserve,M,Mali
+60,Benjamin Henrichs,"€ 73,077","€ 3,800,000","Jun 30, 2025",Leipzig,26,Starter,D,Germany
+61,Salih Özcan,"€ 72,692","€ 3,780,000","Jun 30, 2026",Borussia Dortmund,25,Reserve,M,Turkey
+62,Leonardo Bonucci,"€ 72,500","€ 3,770,000","Jun 30, 2024",Union Berlin,36,Reserve,D,Italy
+63,Maxence Lacroix,"€ 69,615","€ 3,620,000","Jun 30, 2025",Wolfsburg,23,Starter,D,France
+64,Yannick Gerhardt,"€ 69,231","€ 3,600,000","Jun 30, 2025",Wolfsburg,29,Starter,M,Germany
+65,Kevin Trapp,"€ 67,308","€ 3,500,000","Jun 30, 2026",Eintracht Frankfurt,33,Starter,K,Germany
+66,Benjamin Sesko,"€ 67,308","€ 3,500,000","Jun 30, 2028",Leipzig,20,Reserve,F,Slovenia
+67,Christoph Kramer,"€ 67,308","€ 3,500,000","Jun 30, 2025",Monchengladbach,32,Reserve,M,Germany
+68,Oliver Baumann,"€ 67,308","€ 3,500,000","Jun 30, 2026",Hoffenheim,33,Starter,K,Germany
+69,Mario Götze,"€ 67,308","€ 3,500,000","Jun 30, 2026",Eintracht Frankfurt,31,Reserve,F,Germany
+70,Amadou Haidara,"€ 67,308","€ 3,500,000","Jun 30, 2025",Leipzig,25,Reserve,M,Mali
+71,Nico Elvedi,"€ 67,308","€ 3,500,000","Jun 30, 2027",Monchengladbach,26,Reserve,D,Switzerland
+72,Mergim Berisha,"€ 67,308","€ 3,500,000","Jun 30, 2027",Hoffenheim,25,Reserve,F,Germany
+73,Luca Waldschmidt,"€ 65,385","€ 3,400,000","Jun 30, 2024",Koln,27,Starter,F,Germany
+74,Marius Wolf,"€ 63,462","€ 3,300,000","Jun 30, 2024",Borussia Dortmund,28,Reserve,D,Germany
+75,Ozan Kabak,"€ 60,577","€ 3,150,000","Jun 30, 2026",Hoffenheim,23,Starter,D,Turkey
+76,Youssoufa Moukoko,"€ 57,692","€ 3,000,000","Jun 30, 2026",Borussia Dortmund,18,Reserve,F,Germany
+77,Jonas Omlin,"€ 57,692","€ 3,000,000","Jun 30, 2027",Monchengladbach,29,Reserve,K,Switzerland
+78,Castello Lukeba,"€ 57,692","€ 3,000,000","Jun 30, 2028",Leipzig,20,Reserve,D,France
+79,Jamie Bynoe-Gittens,"€ 57,692","€ 3,000,000","Jun 30, 2028",Borussia Dortmund,19,Reserve,F,England
+80,Dan-Axel Zagadou,"€ 54,423","€ 2,830,000","Jun 30, 2026",Stuttgart,24,Starter,D,France
+81,Nadiem Amiri,"€ 54,423","€ 2,830,000","Jun 30, 2024",Bayer Leverkusen,26,Reserve,M,Germany
+82,Mattias Svanberg,"€ 54,423","€ 2,830,000","Jun 30, 2027",Wolfsburg,24,Starter,M,Sweden
+83,Jonathan Tah,"€ 54,423","€ 2,830,000","Jun 30, 2025",Bayer Leverkusen,27,Starter,D,Germany
+84,Robin Gosens,"€ 54,423","€ 2,830,000","Jun 30, 2028",Union Berlin,29,Starter,M,Germany
+85,Aster Vranckx,"€ 54,423","€ 2,830,000","Jun 30, 2025",Wolfsburg,20,Reserve,M,Belgium
+86,Sebastiaan Bornauw,"€ 54,231","€ 2,820,000","Jun 30, 2026",Wolfsburg,24,Reserve,D,Belgium
+87,Ellyes Skhiri,"€ 53,846","€ 2,800,000","Jun 30, 2027",Eintracht Frankfurt,28,Starter,M,Tunisia
+88,Brenden Aaronson,"€ 53,077","€ 2,760,000","Jun 30, 2024",Union Berlin,22,Reserve,F,United States
+89,Ihlas Bebou,"€ 51,923","€ 2,700,000","Jun 30, 2026",Hoffenheim,29,Reserve,F,Togo
+90,Lukas Hradecky,"€ 50,000","€ 2,600,000","Jun 30, 2026",Bayer Leverkusen,33,Starter,K,Finland
+91,Lucas Tousart,"€ 50,000","€ 2,600,000","Jun 30, 2024",Union Berlin,26,Reserve,M,France
+92,Giovanni Reyna,"€ 48,077","€ 2,500,000","Jun 30, 2025",Borussia Dortmund,20,Reserve,F,United States
+93,Santos Borré,"€ 48,077","€ 2,500,000","Jun 30, 2024",Werder Bremen,27,Reserve,F,Colombia
+94,Florian Grillitsch,"€ 48,077","€ 2,500,000","Jun 30, 2026",Hoffenheim,28,Starter,M,Austria
+95,Jiri Pavlenka,"€ 48,077","€ 2,500,000","Jun 30, 2025",Werder Bremen,31,Starter,K,Czech Republic
+96,Kevin Kampl,"€ 48,077","€ 2,500,000","Jun 30, 2026",Leipzig,32,Starter,M,Slovenia
+97,Fábio Carvalho,"€ 48,077","€ 2,500,000","Jun 30, 2024",Leipzig,21,Reserve,F,Portugal
+98,Leonardo Bittencourt,"€ 48,077","€ 2,500,000","Jun 30, 2024",Werder Bremen,29,Reserve,F,Germany
+99,Christoph Baumgartner,"€ 48,077","€ 2,500,000","Jun 30, 2028",Leipzig,24,Reserve,F,Austria
+100,Hiroki Ito,"€ 48,077","€ 2,500,000","Jun 30, 2027",Stuttgart,24,Starter,D,Japan
+101,Naby Keïta,"€ 48,077","€ 2,500,000","Jun 30, 2026",Werder Bremen,28,Reserve,M,Guinea
+102,Florian Wirtz,"€ 48,077","€ 2,500,000","Jun 30, 2027",Bayer Leverkusen,20,Starter,F,Germany
+103,Sebastian Rode,"€ 48,077","€ 2,500,000","Jun 30, 2024",Eintracht Frankfurt,32,Reserve,M,Germany
+104,Lucas Alario,"€ 48,077","€ 2,500,000","Jun 30, 2025",Eintracht Frankfurt,30,Reserve,F,Argentina
+105,Robin Koch,"€ 47,308","€ 2,460,000","Jun 30, 2024",Eintracht Frankfurt,27,Starter,D,Germany
+106,Kevin Mbabu,"€ 46,538","€ 2,420,000","Jun 30, 2024",Augsburg,28,Starter,D,Switzerland
+107,Kevin Volland,"€ 46,154","€ 2,400,000","Jun 30, 2026",Union Berlin,31,Reserve,F,Germany
+108,Luca Netz,"€ 46,154","€ 2,400,000","Jun 30, 2026",Monchengladbach,20,Starter,D,Germany
+109,Kevin Vogt,"€ 46,154","€ 2,400,000","Jun 30, 2025",Hoffenheim,31,Starter,D,Germany
+110,Stefan Lainer,"€ 44,231","€ 2,300,000","Jun 30, 2024",Monchengladbach,31,Reserve,D,Austria
+111,Marvin Ducksch,"€ 43,462","€ 2,260,000","Jun 30, 2026",Werder Bremen,29,Starter,F,Germany
+112,Nicolas Seiwald,"€ 42,308","€ 2,200,000","Jun 30, 2028",Leipzig,22,Reserve,M,Austria
+113,Serhou Guirassy,"€ 41,538","€ 2,160,000","Jun 30, 2026",Stuttgart,27,Starter,F,Guinea
+114,Dennis Geiger,"€ 41,538","€ 2,160,000","Jun 30, 2027",Hoffenheim,25,Reserve,M,Germany
+115,Ludovic Ajorque,"€ 41,538","€ 2,160,000","Jun 30, 2026",Mainz,29,Reserve,F,France
+116,Wout Weghorst,"€ 40,769","€ 2,120,000","Jun 30, 2024",Hoffenheim,31,Starter,F,Netherlands
+117,Maximilian Wöber,"€ 40,769","€ 2,120,000","Jun 30, 2024",Monchengladbach,25,Starter,D,Austria
+118,Maximilian Philipp,"€ 40,385","€ 2,100,000","Jun 30, 2024",Freiburg,29,Reserve,F,Germany
+119,Marius Bülter,"€ 40,385","€ 2,100,000","Jun 30, 2026",Hoffenheim,30,Reserve,F,Germany
+120,Piero Hincapié,"€ 40,000","€ 2,080,000","Jun 30, 2027",Bayer Leverkusen,21,Reserve,D,Ecuador
+121,Julian Ryerson,"€ 39,231","€ 2,040,000","Jun 30, 2026",Borussia Dortmund,25,Starter,D,Norway
+122,Jonas Wind,"€ 39,231","€ 2,040,000","Jun 30, 2026",Wolfsburg,24,Starter,F,Denmark
+123,Marvin Friedrich,"€ 38,462","€ 2,000,000","Jun 30, 2026",Monchengladbach,27,Reserve,D,Germany
+124,Attila Szalai,"€ 38,462","€ 2,000,000","Jun 30, 2027",Hoffenheim,25,Reserve,D,Hungary
+125,Victor Boniface,"€ 38,462","€ 2,000,000","Jun 30, 2028",Bayer Leverkusen,22,Starter,F,Nigeria
+126,Sven Ulreich,"€ 38,462","€ 2,000,000","Jun 30, 2025",Bayern Munich,35,Starter,K,Germany
+127,Jens Petter Hauge,"€ 38,462","€ 2,000,000","Jun 30, 2026",Eintracht Frankfurt,23,Reserve,F,Norway
+128,Pavel Kaderabek,"€ 38,462","€ 2,000,000","Jun 30, 2025",Hoffenheim,31,Starter,D,Czech Republic
+129,Patrick Wimmer,"€ 38,462","€ 2,000,000","Jun 30, 2027",Wolfsburg,22,Reserve,F,Austria
+130,Lukas Nmecha,"€ 38,462","€ 2,000,000","Jun 30, 2025",Wolfsburg,24,Reserve,F,Germany
+131,Mohamed Simakan,"€ 38,462","€ 2,000,000","Jun 30, 2027",Leipzig,23,Starter,D,France
+132,Philipp Max,"€ 38,269","€ 1,990,000","Jun 30, 2026",Eintracht Frankfurt,29,Starter,D,Germany
+133,Mitchell Weiser,"€ 38,077","€ 1,980,000","Jun 30, 2024",Werder Bremen,29,Starter,D,Germany
+134,Edimilson Fernandes,"€ 38,077","€ 1,980,000","Jun 30, 2026",Mainz,27,Starter,D,Switzerland
+135,Hannes Wolf,"€ 36,923","€ 1,920,000","Jun 30, 2024",Monchengladbach,24,Reserve,F,Austria
+136,Kouadio Koné,"€ 36,923","€ 1,920,000","Jun 30, 2025",Monchengladbach,22,Reserve,M,France
+137,Bouna Sarr,"€ 36,538","€ 1,900,000","Jun 30, 2024",Bayern Munich,31,Reserve,D,Senegal
+138,Joakim Maehle,"€ 36,538","€ 1,900,000","Jun 30, 2027",Wolfsburg,26,Starter,D,Denmark
+139,Anton Stach,"€ 36,538","€ 1,900,000","Jun 30, 2027",Hoffenheim,24,Reserve,M,Germany
+140,Ko Itakura,"€ 36,346","€ 1,890,000","Jun 30, 2026",Monchengladbach,26,Starter,D,Japan
+141,Ivan Ordets,"€ 36,346","€ 1,890,000","Jun 30, 2024",Bochum,31,Starter,D,Ukraine
+142,Jae-sung Lee,"€ 36,346","€ 1,890,000","Jun 30, 2026",Mainz,31,Starter,F,South Korea
+143,Josip Stanisic,"€ 36,346","€ 1,890,000","Jun 30, 2024",Bayer Leverkusen,23,Reserve,D,Croatia
+144,Silvan Widmer,"€ 36,346","€ 1,890,000","Jun 30, 2026",Mainz,30,Reserve,D,Switzerland
+145,Adam Hlozek,"€ 36,154","€ 1,880,000","Jun 30, 2027",Bayer Leverkusen,21,Reserve,F,Czech Republic
+146,Nicolai Rapp,"€ 35,192","€ 1,830,000","Jun 30, 2024",Werder Bremen,26,Reserve,M,Germany
+147,David Datro Fofana,"€ 35,192","€ 1,830,000","Jun 30, 2024",Union Berlin,20,Starter,F,Cote d'Ivoire
+148,Robert Skov,"€ 34,615","€ 1,800,000","Jun 30, 2024",Hoffenheim,27,Starter,F,Denmark
+149,El Chadaille Bitshiabu,"€ 34,615","€ 1,800,000","Jun 30, 2028",Leipzig,18,Reserve,D,France
+150,Ridle Baku,"€ 34,615","€ 1,800,000","Jun 30, 2025",Wolfsburg,25,Starter,D,Germany
+151,Nathan Tella,"€ 34,615","€ 1,800,000","Jun 30, 2028",Bayer Leverkusen,24,Reserve,F,England
+152,Mark Uth,"€ 34,615","€ 1,800,000","Jun 30, 2025",Koln,32,Reserve,F,Germany
+153,Dominik Kohr,"€ 34,615","€ 1,800,000","Jun 30, 2026",Mainz,29,Starter,M,Germany
+154,Stefan Bell,"€ 34,615","€ 1,800,000","Jun 30, 2024",Mainz,32,Starter,D,Germany
+155,Jordan Siebatcheu,"€ 34,615","€ 1,800,000","Jun 30, 2024",Monchengladbach,27,Reserve,F,United States
+156,Alex Kral,"€ 34,423","€ 1,790,000","Jun 30, 2024",Union Berlin,25,Starter,M,Czech Republic
+157,Karim Onisiwo,"€ 32,692","€ 1,700,000","Jun 30, 2026",Mainz,31,Starter,F,Austria
+158,Rogério,"€ 32,692","€ 1,700,000","Jun 30, 2027",Wolfsburg,25,Reserve,D,Brazil
+159,Patrick Herrmann,"€ 32,692","€ 1,700,000","Jun 30, 2024",Monchengladbach,32,Reserve,F,Germany
+160,Anthony Caci,"€ 32,308","€ 1,680,000","Jun 30, 2026",Mainz,26,Starter,D,France
+161,Leandro Barreiro Martins,"€ 32,308","€ 1,680,000","Jun 30, 2024",Mainz,23,Starter,M,Luxembourg
+162,Odilon Kossounou,"€ 31,346","€ 1,630,000","Jun 30, 2026",Bayer Leverkusen,22,Starter,D,Cote d'Ivoire
+163,Ilaix Moriba,"€ 31,154","€ 1,620,000","Jun 30, 2026",Leipzig,20,Reserve,M,Guinea
+164,Dawid Kownacki,"€ 30,769","€ 1,600,000","Jun 30, 2024",Werder Bremen,26,Reserve,F,Poland
+165,Josip Juranovic,"€ 30,769","€ 1,600,000","Jun 30, 2027",Union Berlin,28,Reserve,D,Croatia
+166,Vaclav Cerny,"€ 30,769","€ 1,600,000","Jun 30, 2027",Wolfsburg,25,Reserve,F,Czech Republic
+167,Robert Andrich,"€ 30,769","€ 1,600,000","Jun 30, 2026",Bayer Leverkusen,28,Reserve,M,Germany
+168,Omar Marmoush,"€ 30,769","€ 1,600,000","Jun 30, 2027",Eintracht Frankfurt,24,Starter,F,Egypt
+169,Xavi Simons,"€ 30,000","€ 1,560,000","Jun 30, 2024",Leipzig,20,Starter,F,Netherlands
+170,Kevin Akpoguma,"€ 28,846","€ 1,500,000","Jun 30, 2026",Hoffenheim,28,Reserve,D,Nigeria
+171,Daniel Peretz,"€ 28,846","€ 1,500,000","Jun 30, 2028",Bayern Munich,23,Reserve,K,Israel
+172,Genki Haraguchi,"€ 28,846","€ 1,500,000","Jun 30, 2024",Stuttgart,32,Reserve,F,Japan
+173,Amin Sarr,"€ 28,846","€ 1,500,000","Jun 30, 2024",Wolfsburg,22,Reserve,F,Sweden
+174,Robin Zentner,"€ 28,846","€ 1,500,000","Jun 30, 2025",Mainz,28,Starter,K,Germany
+175,Felix Uduokhai,"€ 28,846","€ 1,500,000","Jun 30, 2025",Augsburg,25,Starter,D,Germany
+176,Robin Knoche,"€ 28,846","€ 1,500,000","Jun 30, 2024",Union Berlin,31,Starter,D,Germany
+177,Janis Blaswich,"€ 28,846","€ 1,500,000","Jun 30, 2026",Leipzig,32,Starter,K,Germany
+178,Japhet Tanganga,"€ 28,846","€ 1,500,000","Jun 30, 2024",Augsburg,24,Reserve,D,England
+179,Jeffrey Gouweleeuw,"€ 28,846","€ 1,500,000","Jun 30, 2024",Augsburg,32,Starter,D,Netherlands
+180,Tiago Tomás,"€ 28,846","€ 1,500,000","Jun 30, 2027",Wolfsburg,21,Starter,F,Portugal
+181,Jérôme Roussillon,"€ 28,846","€ 1,500,000","Jun 30, 2024",Union Berlin,30,Reserve,D,Guadeloupe
+182,John Anthony Brooks,"€ 28,846","€ 1,500,000","Jun 30, 2024",Hoffenheim,30,Starter,D,United States
+183,Jonathan Burkardt,"€ 28,846","€ 1,500,000","Jun 30, 2024",Mainz,23,Reserve,F,Germany
+184,Davie Selke,"€ 28,846","€ 1,500,000","Jun 30, 2026",Koln,28,Starter,F,Germany
+185,Tuta,"€ 28,846","€ 1,500,000","Jun 30, 2026",Eintracht Frankfurt,24,Starter,D,Brazil
+186,Tony Jantschke,"€ 28,846","€ 1,500,000","Jun 30, 2024",Monchengladbach,33,Reserve,D,Germany
+187,Niklas Stark,"€ 27,692","€ 1,440,000","Jun 30, 2026",Werder Bremen,28,Starter,D,Germany
+188,Makoto Hasebe,"€ 26,923","€ 1,400,000","Jun 30, 2024",Eintracht Frankfurt,39,Reserve,D,Japan
+189,Florian Kainz,"€ 26,923","€ 1,400,000","Jun 30, 2025",Koln,30,Starter,F,Austria
+190,Moritz Jenz,"€ 26,923","€ 1,400,000","Jun 30, 2027",Wolfsburg,24,Reserve,D,Germany
+191,Tom Krauß,"€ 26,923","€ 1,400,000","Jun 30, 2027",Mainz,22,Reserve,M,Germany
+192,Elvis Rexhbecaj,"€ 26,538","€ 1,380,000","Jun 30, 2026",Augsburg,25,Starter,M,Germany
+193,Sheraldo Becker,"€ 26,538","€ 1,380,000","Jun 30, 2024",Union Berlin,28,Starter,F,Suriname
+194,Bartol Franjic,"€ 25,962","€ 1,350,000","Jun 30, 2024",Darmstadt,23,Reserve,M,Croatia
+195,Angelo Stiller,"€ 25,000","€ 1,300,000","Jun 30, 2027",Stuttgart,22,Starter,M,Germany
+196,Franck Honorat,"€ 24,038","€ 1,250,000","Jun 30, 2028",Monchengladbach,27,Starter,F,France
+197,Lys Mousset,"€ 23,654","€ 1,230,000","Jun 30, 2024",Bochum,27,Reserve,F,France
+198,Erhan Masovic,"€ 23,077","€ 1,200,000","Jun 30, 2026",Bochum,24,Starter,D,Serbia
+199,Bernardo,"€ 23,077","€ 1,200,000","Jun 30, 2025",Bochum,28,Starter,D,Brazil
+200,Tim Kleindienst,"€ 23,077","€ 1,200,000","Jun 30, 2027",Heidenheim,28,Starter,F,Germany
+201,Jan Thielmann,"€ 23,077","€ 1,200,000","Jun 30, 2026",Koln,21,Reserve,F,Germany
+202,Milos Veljkovic,"€ 23,077","€ 1,200,000","Jun 30, 2025",Werder Bremen,27,Reserve,D,Serbia
+203,Pavao Pervan,"€ 23,077","€ 1,200,000","Jun 30, 2024",Wolfsburg,35,Reserve,K,Austria
+204,Timothy Chandler,"€ 23,077","€ 1,200,000","Jun 30, 2025",Eintracht Frankfurt,33,Reserve,D,United States
+205,Christopher Lenz,"€ 23,077","€ 1,200,000","Jun 30, 2024",Leipzig,28,Reserve,D,Germany
+206,Andreas Hanche-Olsen,"€ 23,077","€ 1,200,000","Jun 30, 2026",Mainz,26,Reserve,D,Norway
+207,Deniz Undav,"€ 23,077","€ 1,200,000","Jun 30, 2024",Stuttgart,27,Reserve,F,Germany
+208,András Schäfer,"€ 23,077","€ 1,200,000","Jun 30, 2024",Union Berlin,24,Reserve,M,Hungary
+209,Joe Scally,"€ 23,077","€ 1,200,000","Jun 30, 2027",Monchengladbach,20,Starter,D,United States
+210,Marvin Schwäbe,"€ 23,077","€ 1,200,000","Jun 30, 2027",Koln,28,Starter,K,Germany
+211,Frederik Rönnow,"€ 23,077","€ 1,200,000","Jun 30, 2024",Union Berlin,31,Starter,K,Denmark
+212,Stanley Nsoki,"€ 23,077","€ 1,200,000","Jun 30, 2027",Hoffenheim,24,Reserve,D,France
+213,Nicolas Cozza,"€ 22,115","€ 1,150,000","Jun 30, 2027",Wolfsburg,24,Reserve,D,France
+214,Jakub Kaminski,"€ 22,115","€ 1,150,000","Jun 30, 2027",Wolfsburg,21,Reserve,F,Poland
+215,Anthony Jung,"€ 22,115","€ 1,150,000","Jun 30, 2024",Werder Bremen,31,Starter,D,Germany
+216,Michael Gregoritsch,"€ 21,923","€ 1,140,000","Jun 30, 2024",Freiburg,29,Reserve,F,Austria
+217,Amine Adli,"€ 21,923","€ 1,140,000","Jun 30, 2026",Bayer Leverkusen,23,Reserve,F,Morocco
+218,Ermedin Demirovic,"€ 21,923","€ 1,140,000","Jun 30, 2026",Augsburg,25,Starter,F,Bosnia-Herzegovina
+219,Silas Wamangituka,"€ 21,923","€ 1,140,000","Jun 30, 2026",Stuttgart,24,Starter,F,Democratic Republic of the Congo
+220,Timo Hübers,"€ 21,731","€ 1,130,000","Jun 30, 2026",Koln,27,Starter,D,Germany
+221,Fabian Bredlow,"€ 21,731","€ 1,130,000","Jun 30, 2026",Stuttgart,28,Reserve,K,Germany
+222,Senne Lynen,"€ 21,154","€ 1,100,000","Jun 30, 2024",Werder Bremen,24,Starter,M,Belgium
+223,Kevin Müller,"€ 21,154","€ 1,100,000","Jun 30, 2025",Heidenheim,32,Starter,K,Germany
+224,Janik Haberer,"€ 20,769","€ 1,080,000","Jun 30, 2025",Union Berlin,29,Reserve,M,Germany
+225,Kristijan Jakic,"€ 20,000","€ 1,040,000","Jun 30, 2026",Eintracht Frankfurt,26,Reserve,M,Croatia
+226,Nathan N'Goumou,"€ 20,000","€ 1,040,000","Jun 30, 2027",Monchengladbach,23,Reserve,F,France
+227,Christian Günter,"€ 19,615","€ 1,020,000","Jun 30, 2024",Freiburg,30,Reserve,D,Germany
+228,Jamie Leweling,"€ 19,615","€ 1,020,000","Jun 30, 2024",Stuttgart,22,Reserve,F,Germany
+229,Felix Passlack,"€ 19,231","€ 1,000,000","Jun 30, 2025",Bochum,25,Starter,D,Germany
+230,Iago,"€ 19,231","€ 1,000,000","Jun 30, 2024",Augsburg,26,Starter,D,Brazil
+231,Dominique Heintz,"€ 19,231","€ 1,000,000","Jun 30, 2024",Koln,30,Reserve,D,Germany
+232,Tomas Koubek,"€ 19,231","€ 1,000,000","Jun 30, 2024",Augsburg,31,Reserve,K,Czech Republic
+233,Cédric Zesiger,"€ 19,231","€ 1,000,000","Jun 30, 2027",Wolfsburg,25,Starter,D,Switzerland
+234,Arne Maier,"€ 19,231","€ 1,000,000","Jun 30, 2025",Augsburg,24,Reserve,M,Germany
+235,Maximilian Beier,"€ 19,231","€ 1,000,000","Jun 30, 2027",Hoffenheim,20,Starter,F,Germany
+236,Maximilian Mittelstädt,"€ 19,231","€ 1,000,000","Jun 30, 2026",Stuttgart,26,Reserve,D,Germany
+237,Mateu Morey Bauzà,"€ 18,846","€ 980,000","Jun 30, 2024",Borussia Dortmund,23,Reserve,D,Spain
+238,Kasim Adams,"€ 18,846","€ 980,000","Jun 30, 2024",Hoffenheim,28,Reserve,D,Ghana
+239,Danny da Costa,"€ 18,462","€ 960,000","Jun 30, 2025",Mainz,30,Starter,D,Germany
+240,Maximilian Eggestein,"€ 18,462","€ 960,000","Jun 30, 2025",Freiburg,26,Starter,M,Germany
+241,Maxim Leitsch,"€ 18,462","€ 960,000","Jun 30, 2026",Mainz,25,Reserve,D,Germany
+242,Niklas Dorsch,"€ 18,269","€ 950,000","Jun 30, 2026",Augsburg,25,Starter,M,Germany
+243,Vincenzo Grifo,"€ 18,269","€ 950,000","Jun 30, 2024",Freiburg,30,Starter,F,Italy
+244,Josha Vagnoman,"€ 18,077","€ 940,000","Jun 30, 2026",Stuttgart,22,Reserve,D,Germany
+245,Timothy Fosu-Mensah,"€ 17,308","€ 900,000","Jun 30, 2024",Bayer Leverkusen,25,Reserve,D,Netherlands
+246,Nicolas Höfler,"€ 17,308","€ 900,000","Jun 30, 2024",Freiburg,33,Starter,M,Germany
+247,Benno Schmitz,"€ 17,308","€ 900,000","Jun 30, 2024",Koln,28,Starter,D,Germany
+248,Kevin Paredes,"€ 17,308","€ 900,000","Jun 30, 2026",Wolfsburg,20,Reserve,M,United States
+249,Alexander Schwolow,"€ 17,308","€ 900,000","Jun 30, 2024",Union Berlin,31,Reserve,K,Germany
+250,Christopher Trimmel,"€ 17,308","€ 900,000","Jun 30, 2024",Union Berlin,36,Starter,D,Austria
+251,Phillipp Mwene,"€ 17,308","€ 900,000","Jun 30, 2026",Mainz,29,Reserve,D,Austria
+252,Kilian Fischer,"€ 16,731","€ 870,000","Jun 30, 2027",Wolfsburg,22,Reserve,D,Germany
+253,Rubén Vargas,"€ 16,346","€ 850,000","Jun 30, 2025",Augsburg,25,Starter,F,Switzerland
+254,Leart Paqarada,"€ 16,346","€ 850,000","Jun 30, 2026",Koln,28,Starter,D,Kosovo
+255,Rani Khedira,"€ 16,346","€ 850,000","Jun 30, 2024",Union Berlin,29,Reserve,M,Germany
+256,Finn Dahmen,"€ 16,154","€ 840,000","Jun 30, 2026",Augsburg,25,Starter,K,Germany
+257,Ritsu Doan,"€ 16,154","€ 840,000","Jun 30, 2024",Freiburg,25,Starter,F,Japan
+258,Aïssa Laïdouni,"€ 16,154","€ 840,000","Jun 30, 2024",Union Berlin,26,Starter,M,Tunisia
+259,Grischa Prömel,"€ 16,154","€ 840,000","Jun 30, 2026",Hoffenheim,28,Starter,M,Germany
+260,Aymen Barkok,"€ 16,154","€ 840,000","Jun 30, 2025",Mainz,25,Reserve,M,Morocco
+261,Manuel Riemann,"€ 16,154","€ 840,000","Jun 30, 2025",Bochum,34,Starter,K,Germany
+262,Dejan Ljubicic,"€ 16,154","€ 840,000","Jun 30, 2025",Koln,25,Starter,M,Austria
+263,Woo-yeong Jeong,"€ 15,385","€ 800,000","Jun 30, 2026",Stuttgart,23,Reserve,F,South Korea
+264,Farès Chaïbi,"€ 15,385","€ 800,000","Jun 30, 2028",Eintracht Frankfurt,20,Starter,F,Algeria
+265,Klaus Gjasula,"€ 15,385","€ 800,000","Jun 30, 2024",Darmstadt,33,Reserve,M,Albania
+266,Reece Oxford,"€ 15,385","€ 800,000","Jun 30, 2025",Augsburg,24,Reserve,D,England
+267,Tomas Cvancara,"€ 15,385","€ 800,000","Jun 30, 2028",Monchengladbach,23,Starter,F,Czech Republic
+268,Maximilian Wittek,"€ 15,385","€ 800,000","Jun 30, 2026",Bochum,28,Starter,D,Germany
+269,Mads Pedersen,"€ 15,385","€ 800,000","Jun 30, 2027",Augsburg,27,Reserve,D,Denmark
+270,Marco Richter,"€ 15,385","€ 800,000","Jun 30, 2027",Mainz,25,Reserve,F,Germany
+271,Willian Pacho,"€ 15,385","€ 800,000","Jun 30, 2028",Eintracht Frankfurt,21,Starter,D,Ecuador
+272,Tobias Kempe,"€ 15,000","€ 780,000","Jun 30, 2025",Darmstadt,34,Starter,M,Germany
+273,Christian Groß,"€ 15,000","€ 780,000","Jun 30, 2024",Werder Bremen,34,Starter,M,Germany
+274,Marvin Pieringer,"€ 15,000","€ 780,000","Jun 30, 2027",Heidenheim,23,Starter,F,Germany
+275,Christoph Zimmermann,"€ 15,000","€ 780,000","Jun 30, 2025",Darmstadt,30,Reserve,D,Germany
+276,Philipp Hofmann,"€ 15,000","€ 780,000","Jun 30, 2026",Bochum,30,Starter,F,Germany
+277,Dion Beljo,"€ 14,615","€ 760,000","Jun 30, 2027",Augsburg,21,Reserve,F,Croatia
+278,Gil Dias,"€ 14,615","€ 760,000","Jun 30, 2025",Stuttgart,26,Reserve,F,Portugal
+279,Olivier Deman,"€ 14,423","€ 750,000","Jun 30, 2024",Werder Bremen,23,Reserve,M,Belgium
+280,Matej Kovar,"€ 14,423","€ 750,000","Jun 30, 2027",Bayer Leverkusen,23,Reserve,K,Czech Republic
+281,Marcel Schuhen,"€ 14,423","€ 750,000","Jun 30, 2025",Darmstadt,30,Starter,K,Germany
+282,Hugo Larsson,"€ 14,423","€ 750,000","Jun 30, 2028",Eintracht Frankfurt,19,Starter,M,Sweden
+283,Waldemar Anton,"€ 14,423","€ 750,000","Jun 30, 2025",Stuttgart,27,Starter,D,Germany
+284,Phillip Tietz,"€ 14,423","€ 750,000","Jun 30, 2027",Augsburg,26,Starter,F,Germany
+285,Marnon Busch,"€ 14,423","€ 750,000","Jun 30, 2027",Heidenheim,28,Reserve,D,Germany
+286,Éric Ebimbe,"€ 13,846","€ 720,000","Jun 30, 2027",Eintracht Frankfurt,22,Starter,M,France
+287,Roland Sallai,"€ 13,846","€ 720,000","Jun 30, 2025",Freiburg,26,Starter,F,Hungary
+288,Denis Thomalla,"€ 13,846","€ 720,000","Jun 30, 2025",Heidenheim,31,Reserve,F,Germany
+289,Kevin Behrens,"€ 13,846","€ 720,000","Jun 30, 2024",Union Berlin,32,Starter,F,Germany
+290,Julian Chabot,"€ 13,846","€ 720,000","Jun 30, 2026",Koln,25,Starter,D,Germany
+291,Rocco Reitz,"€ 13,846","€ 720,000","Jun 30, 2026",Monchengladbach,21,Starter,M,Germany
+292,Gonçalo Paciência,"€ 13,846","€ 720,000","Jun 30, 2024",Bochum,29,Reserve,F,Portugal
+293,Arthur,"€ 13,846","€ 720,000","Jun 30, 2028",Bayer Leverkusen,20,Reserve,D,Brazil
+294,Marco Friedl,"€ 13,846","€ 720,000","Jun 30, 2026",Werder Bremen,25,Starter,D,Austria
+295,Kevin Stöger,"€ 13,846","€ 720,000","Jun 30, 2024",Bochum,30,Starter,F,Austria
+296,Fabian Holland,"€ 13,846","€ 720,000","Jun 30, 2025",Darmstadt,33,Starter,D,Germany
+297,Pascal Stenzel,"€ 13,654","€ 710,000","Jun 30, 2024",Stuttgart,27,Starter,D,Germany
+298,Matthias Bader,"€ 13,462","€ 700,000","Jun 30, 2025",Darmstadt,26,Starter,D,Germany
+299,Jessic Ngankam,"€ 13,462","€ 700,000","Jun 30, 2028",Eintracht Frankfurt,23,Reserve,F,Germany
+300,Junior Adamu,"€ 13,462","€ 700,000","Jun 30, 2024",Freiburg,22,Reserve,F,Austria
+301,Mikkel Kaufmann,"€ 13,462","€ 700,000","Jun 30, 2024",Union Berlin,22,Reserve,F,Denmark
+302,Masaya Okugawa,"€ 13,462","€ 700,000","Jun 30, 2026",Augsburg,27,Reserve,F,Japan
+303,Matus Bero,"€ 13,462","€ 700,000","Jun 30, 2026",Bochum,27,Starter,M,Slovakia
+304,Niels Nkounkou,"€ 13,462","€ 700,000","Jun 30, 2028",Eintracht Frankfurt,22,Reserve,D,France
+305,Sven Michel,"€ 13,269","€ 690,000","Jun 30, 2025",Augsburg,33,Reserve,F,Germany
+306,Philipp Lienhart,"€ 13,077","€ 680,000","Jun 30, 2024",Freiburg,27,Starter,D,Austria
+307,Steffen Tigges,"€ 12,692","€ 660,000","Jun 30, 2026",Koln,25,Reserve,F,Germany
+308,Nikolas Nartey,"€ 11,923","€ 620,000","Jun 30, 2025",Stuttgart,23,Reserve,M,Denmark
+309,Cristian Gamboa,"€ 11,538","€ 600,000","Jun 30, 2025",Bochum,33,Reserve,D,Costa Rica
+310,Christoph Klarer,"€ 11,538","€ 600,000","Jun 30, 2027",Darmstadt,23,Starter,D,Austria
+311,Danilho Doekhi,"€ 11,538","€ 600,000","Jun 30, 2025",Union Berlin,25,Starter,D,Netherlands
+312,Philipp Förster,"€ 11,538","€ 600,000","Jun 30, 2024",Bochum,28,Reserve,F,Germany
+313,Patric Pfeiffer,"€ 11,538","€ 600,000","Jun 30, 2027",Augsburg,24,Starter,D,Ghana
+314,Luca Pfeiffer,"€ 11,538","€ 600,000","Jun 30, 2024",Darmstadt,27,Starter,F,Germany
+315,Benjamin Uphoff,"€ 11,538","€ 600,000","Jun 30, 2024",Freiburg,30,Reserve,K,Germany
+316,Jens Stage,"€ 11,538","€ 600,000","Jun 30, 2026",Werder Bremen,26,Starter,M,Denmark
+317,Felix Agu,"€ 11,538","€ 600,000","Jun 30, 2024",Werder Bremen,23,Reserve,D,Germany
+318,Dimitrios Limnios,"€ 11,538","€ 600,000","Jun 30, 2024",Koln,25,Reserve,F,Greece
+319,Robin Hack,"€ 11,538","€ 600,000","Jun 30, 2027",Monchengladbach,25,Reserve,F,Germany
+320,Amos Pieper,"€ 11,538","€ 600,000","Jun 30, 2026",Werder Bremen,25,Starter,D,Germany
+321,Sargis Adamyan,"€ 11,538","€ 600,000","Jun 30, 2026",Koln,30,Reserve,F,Armenia
+322,Tobias Sippel,"€ 11,538","€ 600,000","Jun 30, 2024",Monchengladbach,35,Reserve,K,Germany
+323,Raphael Framberger,"€ 10,962","€ 570,000","Jun 30, 2024",Augsburg,27,Reserve,D,Germany
+324,Alexander Meyer,"€ 10,962","€ 570,000","Jun 30, 2025",Borussia Dortmund,32,Reserve,K,Germany
+325,Irvin Cardona,"€ 10,769","€ 560,000","Jun 30, 2027",Augsburg,26,Reserve,F,France
+326,Fredrik Jensen,"€ 10,769","€ 560,000","Jun 30, 2025",Augsburg,25,Reserve,F,Finland
+327,Braydon Manu,"€ 10,769","€ 560,000","Jun 30, 2024",Darmstadt,26,Reserve,F,Ghana
+328,Nathanaël Mbuku,"€ 10,769","€ 560,000","Jun 30, 2027",Augsburg,21,Reserve,F,France
+329,Julian Justvan,"€ 10,577","€ 550,000","Jun 30, 2027",Hoffenheim,25,Reserve,F,Germany
+330,Sepp van den Berg,"€ 10,385","€ 540,000","Jun 30, 2024",Mainz,21,Starter,D,Netherlands
+331,Mamadou Doucouré,"€ 10,385","€ 540,000","Jun 30, 2024",Monchengladbach,25,Reserve,D,France
+332,Anthony Losilla,"€ 10,385","€ 540,000","Jun 30, 2024",Bochum,37,Starter,M,France
+333,Keven Schlotterbeck,"€ 10,385","€ 540,000","Jun 30, 2024",Bochum,26,Reserve,D,Germany
+334,Ansgar Knauff,"€ 10,385","€ 540,000","Jun 30, 2028",Eintracht Frankfurt,21,Reserve,M,Germany
+335,Lucas Höler,"€ 10,000","€ 520,000","Jun 30, 2024",Freiburg,29,Starter,F,Germany
+336,Jonas Föhrenbach,"€ 10,000","€ 520,000","Jun 30, 2027",Heidenheim,27,Starter,D,Germany
+337,Patrick Osterhage,"€ 10,000","€ 520,000","Jun 30, 2026",Bochum,23,Reserve,M,Germany
+338,Matej Maglica,"€ 9,615","€ 500,000","Jun 30, 2024",Darmstadt,24,Starter,D,Croatia
+339,Tim Breithaupt,"€ 9,615","€ 500,000","Jun 30, 2028",Augsburg,21,Reserve,M,Germany
+340,Benedict Hollerbach,"€ 9,615","€ 500,000","Jun 30, 2024",Union Berlin,22,Reserve,F,Germany
+341,Benedikt Gimber,"€ 9,615","€ 500,000","Jun 30, 2025",Heidenheim,26,Reserve,M,Germany
+342,Lukas Daschner,"€ 9,615","€ 500,000","Jun 30, 2026",Bochum,24,Reserve,F,Germany
+343,Florian Müller,"€ 9,615","€ 500,000","Jun 30, 2024",Freiburg,25,Reserve,K,Germany
+344,Fabian Nürnberger,"€ 9,615","€ 500,000","Jun 30, 2026",Darmstadt,24,Starter,M,Germany
+345,Grant-Leon Ranos,"€ 9,615","€ 500,000","Jun 30, 2027",Monchengladbach,20,Reserve,F,Armenia
+346,Leopold Zingerle,"€ 9,615","€ 500,000","Jun 30, 2024",Leipzig,29,Reserve,K,Germany
+347,Patrick Mainka,"€ 9,423","€ 490,000","Jun 30, 2024",Heidenheim,28,Starter,D,Germany
+348,Faride Alidou,"€ 9,231","€ 480,000","Jun 30, 2024",Koln,22,Reserve,F,Germany
+349,Aurélio Buta,"€ 9,231","€ 480,000","Jun 30, 2026",Eintracht Frankfurt,26,Starter,D,Portugal
+350,Dzenan Pejcinovic,"€ 9,231","€ 480,000","Jun 30, 2027",Wolfsburg,18,Reserve,F,Germany
+351,Jan Schöppner,"€ 9,231","€ 480,000","Jun 30, 2025",Heidenheim,24,Reserve,M,Germany
+352,Manuel Gulde,"€ 9,231","€ 480,000","Jun 30, 2024",Freiburg,32,Reserve,D,Germany
+353,Oscar Vilhelmsson,"€ 9,231","€ 480,000","Jun 30, 2026",Darmstadt,19,Reserve,F,Sweden
+354,Atakan Karazor,"€ 9,038","€ 470,000","Jun 30, 2026",Stuttgart,26,Starter,M,Germany
+355,Fraser Hornby,"€ 8,846","€ 460,000","Jun 30, 2027",Darmstadt,23,Reserve,F,Scotland
+356,Takuma Asano,"€ 8,654","€ 450,000","Jun 30, 2024",Bochum,28,Starter,F,Japan
+357,Jacob Christensen,"€ 8,654","€ 450,000","Jun 30, 2026",Koln,22,Reserve,M,Denmark
+358,Filip Stojilkovic,"€ 8,654","€ 450,000","Jun 30, 2027",Darmstadt,23,Reserve,F,Switzerland
+359,Moritz-Broni Kwarteng,"€ 8,654","€ 450,000","Jun 30, 2027",Bochum,25,Reserve,F,Germany
+360,Danilo Soares,"€ 8,269","€ 430,000","Jun 30, 2024",Bochum,31,Reserve,D,Brazil
+361,Tim Skarke,"€ 8,077","€ 420,000","Jun 30, 2024",Darmstadt,26,Starter,F,Germany
+362,Paul Jaeckel,"€ 8,077","€ 420,000","Jun 30, 2024",Union Berlin,25,Reserve,D,Germany
+363,Jakob Busk,"€ 8,077","€ 420,000","Jun 30, 2024",Union Berlin,29,Reserve,K,Denmark
+364,Norman Theuerkauf,"€ 8,077","€ 420,000","Jun 30, 2024",Heidenheim,36,Starter,M,Germany
+365,Nikola Dovedan,"€ 8,077","€ 420,000","Jun 30, 2024",Heidenheim,29,Reserve,F,Austria
+366,Jovan Milosevic,"€ 7,692","€ 400,000","Jun 30, 2027",Stuttgart,18,Reserve,F,Serbia
+367,Lukas Ullrich,"€ 7,692","€ 400,000","Jun 30, 2027",Monchengladbach,19,Reserve,D,Germany
+368,Jordi Osei-Tutu,"€ 7,500","€ 390,000","Jun 30, 2025",Bochum,24,Reserve,D,England
+369,Lukas Kübler,"€ 7,500","€ 390,000","Jun 30, 2024",Freiburg,31,Starter,D,Germany
+370,Fabian Schnellhardt,"€ 7,308","€ 380,000","Jun 30, 2024",Darmstadt,29,Reserve,M,Germany
+371,Chris Führich,"€ 7,308","€ 380,000","Jun 30, 2025",Stuttgart,25,Starter,F,Germany
+372,Noah Loosli,"€ 7,115","€ 370,000","Jun 30, 2026",Bochum,26,Reserve,D,Switzerland
+373,Luca Kilian,"€ 6,923","€ 360,000","Jun 30, 2025",Koln,24,Reserve,D,Germany
+374,Florian Dietz,"€ 6,923","€ 360,000","Jun 30, 2025",Koln,25,Reserve,F,Germany
+375,Romano Schmid,"€ 6,923","€ 360,000","Jun 30, 2025",Werder Bremen,23,Starter,F,Austria
+376,Jan Olschowsky,"€ 6,923","€ 360,000","Jun 30, 2027",Monchengladbach,21,Reserve,K,Germany
+377,Finn Ole Becker,"€ 6,923","€ 360,000","Jun 30, 2026",Hoffenheim,23,Reserve,M,Germany
+378,Laurin Ulrich,"€ 6,923","€ 360,000","Jun 30, 2026",Stuttgart,18,Reserve,F,Germany
+379,Daniel-Kofi Kyereh,"€ 6,923","€ 360,000","Jun 30, 2024",Freiburg,27,Reserve,F,Ghana
+380,Nelson Weiper,"€ 6,923","€ 360,000","Jun 30, 2025",Mainz,18,Reserve,F,Germany
+381,Yvandro Borges Sanches,"€ 6,923","€ 360,000","Jun 30, 2025",Monchengladbach,19,Reserve,F,Luxembourg
+382,Linton Maina,"€ 6,923","€ 360,000","Jun 30, 2025",Koln,24,Reserve,F,Germany
+383,Kauã Santos,"€ 6,731","€ 350,000","Jun 30, 2028",Eintracht Frankfurt,20,Reserve,K,Brazil
+384,Jens Grahl,"€ 6,731","€ 350,000","Jun 30, 2026",Eintracht Frankfurt,34,Reserve,K,Germany
+385,Nacho Ferri,"€ 6,731","€ 350,000","Jun 30, 2026",Eintracht Frankfurt,18,Reserve,F,Spain
+386,Simon Walde,"€ 6,538","€ 340,000","Jun 30, 2026",Monchengladbach,18,Reserve,D,Germany
+387,Diogo Leite,"€ 6,538","€ 340,000","Jun 30, 2024",Union Berlin,24,Starter,D,Portugal
+388,Thomas Kastanaras,"€ 6,346","€ 330,000","Jun 30, 2025",Stuttgart,20,Reserve,F,Germany
+389,Michael Esser,"€ 6,346","€ 330,000","Jun 30, 2024",Bochum,35,Reserve,K,Germany
+390,Mathias Honsak,"€ 6,346","€ 330,000","Jun 30, 2024",Darmstadt,26,Reserve,F,Austria
+391,Kiliann Sildillia,"€ 6,154","€ 320,000","Jun 30, 2026",Freiburg,21,Starter,D,France
+392,Andreas Müller,"€ 6,154","€ 320,000","Jun 30, 2026",Darmstadt,23,Reserve,M,Germany
+393,Marcel Wenig,"€ 5,769","€ 300,000","Jun 30, 2025",Eintracht Frankfurt,19,Reserve,M,Germany
+394,Omar-Haktab Traoré,"€ 5,769","€ 300,000","Jun 30, 2026",Heidenheim,25,Starter,D,Germany
+395,Enzo Millot,"€ 5,769","€ 300,000","Jun 30, 2025",Stuttgart,21,Starter,M,France
+396,Stefan Schimmer,"€ 5,769","€ 300,000","Jun 30, 2026",Heidenheim,29,Reserve,F,Germany
+397,Maximilian Bauer,"€ 5,769","€ 300,000","Jun 30, 2027",Augsburg,23,Reserve,D,Germany
+398,Rasmus Carstensen,"€ 5,769","€ 300,000","Jun 30, 2024",Koln,22,Starter,D,Denmark
+399,Niklas Klinger,"€ 5,769","€ 300,000","Jun 30, 2025",Wolfsburg,27,Reserve,K,Germany
+400,Clemens Riedel,"€ 5,769","€ 300,000","Jun 30, 2026",Darmstadt,20,Reserve,D,Germany
+401,Christopher Antwi-Adjei,"€ 5,769","€ 300,000","Jun 30, 2024",Bochum,29,Reserve,F,Ghana
+402,Marvin Mehlem,"€ 5,577","€ 290,000","Jun 30, 2025",Darmstadt,25,Starter,F,Germany
+403,Jan-Niklas Beste,"€ 5,577","€ 290,000","Jun 30, 2025",Heidenheim,24,Starter,F,Germany
+404,Fabio Chiarodia,"€ 5,385","€ 280,000","Jun 30, 2027",Monchengladbach,18,Reserve,D,Italy
+405,Christian Kühlwetter,"€ 5,385","€ 280,000","Jun 30, 2024",Heidenheim,27,Reserve,F,Germany
+406,Noah Mbamba,"€ 5,385","€ 280,000","Jun 30, 2028",Bayer Leverkusen,18,Reserve,M,Belgium
+407,David Colina,"€ 5,385","€ 280,000","Jun 30, 2027",Augsburg,23,Reserve,D,Croatia
+408,Niklas Lomb,"€ 5,192","€ 270,000","Jun 30, 2024",Bayer Leverkusen,30,Reserve,K,Germany
+409,Florian Pick,"€ 5,192","€ 270,000","Jun 30, 2024",Heidenheim,27,Reserve,F,Germany
+410,Eric Martel,"€ 5,192","€ 270,000","Jun 30, 2026",Koln,21,Starter,M,Germany
+411,Vitus Eicher,"€ 5,192","€ 270,000","Jun 30, 2025",Heidenheim,32,Reserve,K,Germany
+412,Eren Dinkci,"€ 5,192","€ 270,000","Jun 30, 2024",Heidenheim,21,Starter,F,Germany
+413,Tim Oermann,"€ 5,192","€ 270,000","Jun 30, 2026",Bochum,19,Reserve,D,Germany
+414,Ole Pohlmann,"€ 4,808","€ 250,000","Jun 30, 2025",Borussia Dortmund,22,Reserve,M,Germany
+415,Justin Njinmah,"€ 4,808","€ 250,000","Jun 30, 2024",Werder Bremen,22,Reserve,F,Germany
+416,Robert Gumny,"€ 4,808","€ 250,000","Jun 30, 2025",Augsburg,25,Reserve,D,Poland
+417,Mathias Olesen,"€ 4,615","€ 240,000","Jun 30, 2025",Koln,22,Reserve,M,Luxembourg
+418,Paxten Aaronson,"€ 4,615","€ 240,000","Jun 30, 2027",Eintracht Frankfurt,20,Reserve,F,United States
+419,Lasse Rieß,"€ 4,615","€ 240,000","Jun 30, 2025",Mainz,22,Reserve,K,Germany
+420,Denis Huseinbasic,"€ 4,615","€ 240,000","Jun 30, 2025",Koln,22,Reserve,M,Germany
+421,Marcel Lotka,"€ 4,615","€ 240,000","Jun 30, 2025",Borussia Dortmund,22,Reserve,K,Germany
+422,Julien Duranville,"€ 4,615","€ 240,000","Jun 30, 2024",Borussia Dortmund,17,Reserve,F,Belgium
+423,Alexander Brunst,"€ 4,615","€ 240,000","Jun 30, 2024",Darmstadt,28,Reserve,K,Germany
+424,Gustavo Puerta,"€ 4,615","€ 240,000","Jun 30, 2028",Bayer Leverkusen,20,Reserve,M,Colombia
+425,Daniel Batz,"€ 4,231","€ 220,000","Jun 30, 2025",Mainz,32,Reserve,K,Germany
+426,Jonas Nickisch,"€ 3,846","€ 200,000","Jun 30, 2025",Koln,19,Reserve,K,Germany
+427,Leonidas Stergiou,"€ 3,654","€ 190,000","Jun 30, 2024",Stuttgart,21,Reserve,D,Switzerland
+428,Roberto Massimo,"€ 3,654","€ 190,000","Jun 30, 2024",Stuttgart,22,Reserve,M,Germany
+429,Nick Woltemade,"€ 3,654","€ 190,000","Jun 30, 2024",Werder Bremen,21,Reserve,F,Germany
+430,Philipp Pentke,"€ 3,462","€ 180,000","Jun 30, 2024",Koln,38,Reserve,K,Germany
+431,Abdoulaye Kamara,"€ 3,462","€ 180,000","Jun 30, 2025",Borussia Dortmund,18,Reserve,M,France
+432,Luca Philipp,"€ 3,462","€ 180,000","Jun 30, 2024",Hoffenheim,22,Reserve,K,Germany
+433,Adrian Beck,"€ 3,462","€ 180,000","Jun 30, 2025",Heidenheim,26,Reserve,F,Germany
+434,Niclas Thiede,"€ 3,462","€ 180,000","Jun 30, 2027",Bochum,24,Reserve,K,Germany
+435,Antonios Papadopoulos,"€ 3,462","€ 180,000","Jun 30, 2024",Borussia Dortmund,23,Reserve,D,Germany
+436,Michael Zetterer,"€ 3,462","€ 180,000","Jun 30, 2025",Werder Bremen,28,Reserve,K,Germany
+437,Emir Karic,"€ 3,269","€ 170,000","Jun 30, 2024",Darmstadt,26,Starter,D,Austria
+438,Ayman Aourir,"€ 3,077","€ 160,000","Jun 30, 2025",Bayer Leverkusen,18,Reserve,F,Germany
+439,Davis Bautista,"€ 3,077","€ 160,000","Jun 30, 2028",Eintracht Frankfurt,18,Reserve,D,Ecuador
+440,Jordy Makengo,"€ 3,077","€ 160,000","Jun 30, 2025",Freiburg,22,Reserve,D,France
+441,Eduardo Dos Santos Haesler,"€ 2,885","€ 150,000","Jun 30, 2024",Werder Bremen,24,Reserve,K,Germany
+442,Nnamdi Collins,"€ 2,885","€ 150,000","Jun 30, 2028",Eintracht Frankfurt,19,Reserve,D,Germany
+443,Paul Tschernuth,"€ 2,885","€ 150,000","Jun 30, 2025",Heidenheim,21,Reserve,K,Austria
+444,Philipp Schulz,"€ 2,885","€ 150,000","Jun 30, 2025",Mainz,18,Reserve,D,Germany
+445,Philipp Schulze,"€ 2,885","€ 150,000","Jun 30, 2026",Wolfsburg,20,Reserve,K,Germany
+446,Hrvoje Smolcic,"€ 2,885","€ 150,000","Jun 30, 2027",Eintracht Frankfurt,23,Reserve,D,Croatia
+447,Sidney Raebiger,"€ 2,885","€ 150,000","Jun 30, 2024",Eintracht Frankfurt,18,Reserve,M,Germany
+448,Simon Simoni,"€ 2,885","€ 150,000","Jun 30, 2027",Eintracht Frankfurt,19,Reserve,K,Albania
+449,Eniss Shabani,"€ 2,885","€ 150,000","Jun 30, 2025",Mainz,20,Reserve,M,Germany
+450,Elidon Qenaj,"€ 2,885","€ 150,000","Jun 30, 2024",Heidenheim,20,Reserve,F,Kosovo
+451,Elias Bakatukanda,"€ 2,885","€ 150,000","Jun 30, 2026",Koln,19,Reserve,D,Germany
+452,Tarek Buchmann,"€ 2,885","€ 150,000","Jun 30, 2026",Bayern Munich,18,Reserve,D,Germany
+453,Thomas Keller,"€ 2,885","€ 150,000","Jun 30, 2025",Heidenheim,24,Reserve,D,Germany
+454,Tom Hülsmann,"€ 2,885","€ 150,000","Jun 30, 2026",Bayern Munich,19,Reserve,K,Germany
+455,Ulysses Llanez,"€ 2,885","€ 150,000","Jun 30, 2024",Wolfsburg,22,Reserve,F,United States
+456,Umut Tohumcu,"€ 2,885","€ 150,000","Jun 30, 2026",Hoffenheim,19,Reserve,M,Germany
+457,Aljoscha Kemlein,"€ 2,885","€ 150,000","Jun 30, 2024",Union Berlin,19,Reserve,M,Germany
+458,Maximilian Brüll,"€ 2,692","€ 140,000","Jun 30, 2025",Monchengladbach,21,Reserve,K,Germany
+459,Morten Behrens,"€ 2,692","€ 140,000","Jun 30, 2024",Darmstadt,26,Reserve,K,Germany
+460,Leon Opitz,"€ 2,692","€ 140,000","Jun 30, 2025",Werder Bremen,18,Reserve,F,Germany
+461,Damion Downs,"€ 2,500","€ 130,000","Jun 30, 2024",Koln,19,Reserve,F,Germany
+462,Jannik Müller,"€ 2,500","€ 130,000","Jun 30, 2024",Darmstadt,29,Reserve,D,Germany
+463,Noel Futkeu,"€ 2,500","€ 130,000","Jun 30, 2026",Eintracht Frankfurt,20,Reserve,F,Germany
+464,Dario Gebuhr,"€ 2,500","€ 130,000","Jun 30, 2025",Eintracht Frankfurt,20,Reserve,D,Germany
+465,Max Rosenfelder,"€ 2,500","€ 130,000","Jun 30, 2024",Freiburg,20,Reserve,D,Germany
+466,Nahuel Noll,"€ 2,308","€ 120,000","Jun 30, 2025",Hoffenheim,20,Reserve,K,Germany
+467,Moritz Broschinski,"€ 2,308","€ 120,000","Jun 30, 2026",Bochum,22,Reserve,F,Germany
+468,Thomas Isherwood,"€ 2,308","€ 120,000","Jun 30, 2024",Darmstadt,25,Reserve,D,Sweden
+469,Lilian Egloff,"€ 2,308","€ 120,000","Jun 30, 2024",Stuttgart,21,Reserve,F,Germany
+470,Yannic Stein,"€ 2,308","€ 120,000","Jun 30, 2024",Union Berlin,18,Reserve,K,Germany
+471,Moritz Römling,"€ 2,308","€ 120,000","Jun 30, 2024",Bochum,22,Reserve,D,Germany
+472,Luka Janes,"€ 2,308","€ 120,000","Jun 30, 2025",Heidenheim,19,Reserve,M,Germany
+473,Dennis Seimen,"€ 2,308","€ 120,000","Jun 30, 2027",Stuttgart,17,Reserve,K,Germany
+474,Madi Monamay,"€ 2,308","€ 120,000","Jun 30, 2025",Bayer Leverkusen,17,Reserve,D,Belgium
+475,Marcel Lubik,"€ 2,308","€ 120,000","Jun 30, 2026",Augsburg,19,Reserve,K,Poland
+476,Marco John,"€ 2,308","€ 120,000","Jun 30, 2025",Hoffenheim,21,Reserve,D,Germany
+477,Timo Schlieck,"€ 2,308","€ 120,000","Jun 30, 2025",Leipzig,17,Reserve,K,Germany
+478,Noah Weißhaupt,"€ 2,308","€ 120,000","Jun 30, 2024",Freiburg,21,Reserve,F,Germany
+479,Noah Katterbach,"€ 2,308","€ 120,000","Jun 30, 2024",Koln,22,Reserve,D,Germany
+480,Tim Siersleben,"€ 2,308","€ 120,000","Jun 30, 2026",Heidenheim,23,Starter,D,Germany
+481,Noah Atubolu,"€ 2,308","€ 120,000","Jun 30, 2024",Freiburg,21,Starter,K,Germany
+482,Mats Pannewig,"€ 2,308","€ 120,000","Jun 30, 2025",Bochum,18,Reserve,M,Germany
+483,Matthias Köbbing,"€ 2,308","€ 120,000","Jun 30, 2025",Koln,26,Reserve,K,Germany
+484,Max Finkgräfe,"€ 2,308","€ 120,000","Jun 30, 2025",Koln,19,Reserve,D,Germany
+485,Tom Bischof,"€ 2,308","€ 120,000","Jun 30, 2025",Hoffenheim,18,Reserve,F,Germany
+486,Yannik Keitel,"€ 2,308","€ 120,000","Jun 30, 2024",Freiburg,23,Reserve,M,Germany
+487,Brajan Gruda,"€ 2,308","€ 120,000","Jun 30, 2026",Mainz,19,Starter,F,Germany
+488,Aaron Zehnter,"€ 2,308","€ 120,000","Jun 30, 2024",Augsburg,18,Reserve,D,Germany
+489,Bambasé Conté,"€ 2,308","€ 120,000","Jun 30, 2026",Hoffenheim,20,Reserve,F,Germany
+490,Mehdi Loune,"€ 2,308","€ 120,000","Jun 30, 2025",Eintracht Frankfurt,19,Reserve,M,Germany
+491,Merlin Röhl,"€ 2,308","€ 120,000","Jun 30, 2024",Freiburg,21,Reserve,M,Germany
+492,Mert Kömür,"€ 2,308","€ 120,000","Jun 30, 2027",Augsburg,18,Reserve,F,Germany
+493,Arne Engels,"€ 2,308","€ 120,000","Jun 30, 2027",Augsburg,19,Reserve,M,Belgium
+494,Merveille Papela,"€ 2,308","€ 120,000","Jun 30, 2024",Mainz,22,Reserve,M,Germany
+495,Florian Schock,"€ 2,308","€ 120,000","Jun 30, 2024",Stuttgart,22,Reserve,K,Germany
+496,Frank Feller,"€ 2,308","€ 120,000","Jun 30, 2025",Heidenheim,19,Reserve,K,Germany
+497,Seedy Jarju,"€ 2,308","€ 120,000","Jun 30, 2025",Heidenheim,18,Reserve,D,The Gambia
+498,Frank Ronstadt,"€ 2,308","€ 120,000","Jun 30, 2024",Darmstadt,26,Reserve,D,Germany
+499,Felix Lange,"€ 2,308","€ 120,000","Jun 30, 2025",Wolfsburg,19,Reserve,D,Germany
+500,Aaron Seydel,"€ 2,308","€ 120,000","Jun 30, 2024",Darmstadt,27,Reserve,F,Germany
+501,Fabio Torsiello,"€ 2,308","€ 120,000","Jun 30, 2026",Darmstadt,18,Reserve,F,Germany
+502,Frederik Winther,"€ 2,308","€ 120,000","Jun 30, 2025",Augsburg,22,Reserve,D,Denmark
+503,Anthony Rouault,"€ 2,308","€ 120,000","Jun 30, 2024",Stuttgart,22,Reserve,D,France
+504,Silas Ostrzinski,"€ 2,308","€ 120,000","Jun 30, 2025",Borussia Dortmund,19,Reserve,K,Germany
+505,Harpreet Ghotra,"€ 2,308","€ 120,000","Jun 30, 2024",Eintracht Frankfurt,20,Reserve,M,Germany
+506,Mohammed Tolba,"€ 2,308","€ 120,000","Jun 30, 2025",Bochum,19,Reserve,D,Germany
+507,Joshua Quarshie,"€ 2,308","€ 120,000","Jun 30, 2025",Hoffenheim,19,Reserve,D,Germany
+508,Kenneth Schmidt,"€ 2,308","€ 120,000","Jun 30, 2024",Freiburg,21,Reserve,D,Germany
+509,Kevin Sessa,"€ 2,308","€ 120,000","Jun 30, 2024",Heidenheim,23,Reserve,M,Germany
+510,Moritz Nicolas,"€ 2,308","€ 120,000","Jun 30, 2026",Monchengladbach,25,Starter,K,Germany
+511,Laurenz Dehl,"€ 2,308","€ 120,000","Jun 30, 2024",Union Berlin,21,Reserve,M,Germany
+512,Lennard Maloney,"€ 2,308","€ 120,000","Jun 30, 2025",Heidenheim,23,Starter,M,United States
+513,Alexander Nübel,,,"Jun 30, 2025",Bayern Munich,26,Reserve,K,Germany
+514,Harry Kane,,,,,,,,
+515,Manuel Neuer,,,,,,,,
+516,Thomas Müller,,,,,,,,
+517,Leroy Sané,,,,,,,,
+518,Joshua Kimmich,,,,,,,,
+519,Serge Gnabry,,,,,,,,
+520,Leon Goretzka,,,,,,,,
+521,Kingsley Coman,,,,,,,,
+522,Matthijs de Ligt,,,,,,,,
+523,Min-jae Kim,,,,,,,,
+524,Alphonso Davies,,,,,,,,
+525,Sébastien Haller,,,,,,,,
+526,Dayot Upamecano,,,,,,,,
+527,Timo Werner,,,,,,,,
+528,Niklas Süle,,,,,,,,
+529,Dani Olmo,,,,,,,,
+530,Gregor Kobel,,,,,,,,
+531,Konrad Laimer,,,,,,,,
+532,Raphaël Guerreiro,,,,,,,,
+533,Noussair Mazraoui,,,,,,,,
+534,Emre Can,,,,,,,,
+535,David Raum,,,,,,,,
+536,Matthias Ginter,,,,,,,,
+537,Marcel Sabitzer,,,,,,,,
+538,Thomas Meunier,,,,,,,,
+539,Eric Maxim Choupo-Moting,,,,,,,,
+540,Julian Brandt,,,,,,,,
+541,Mats Hummels,,,,,,,,
+542,Marco Reus,,,,,,,,
+543,Willi Orbán,,,,,,,,
+544,Yussuf Poulsen,,,,,,,,
+545,Emil Forsberg,,,,,,,,
+546,Felix Nmecha,,,,,,,,
+547,Niclas Füllkrug,,,,,,,,
+548,Alejandro Grimaldo,,,,,,,,
+549,Patrik Schick,,,,,,,,
+550,Donyell Malen,,,,,,,,
+551,Loïs Openda,,,,,,,,
+552,Péter Gulácsi,,,,,,,,
+553,Maximilian Arnold,,,,,,,,
+554,Lukas Klostermann,,,,,,,,
+555,Exequiel Palacios,,,,,,,,
+556,Jamal Musiala,,,,,,,,
+557,Edmond Tapsoba,,,,,,,,
+558,Karim Adeyemi,,,,,,,,
+559,Alexander Nübel,,,,,,,,
+560,Alassane Plea,,,,,,,,
+561,Lovro Majer,,,,,,,,
+562,Nico Schlotterbeck,,,,,,,,
+563,Ramy Bensebaini,,,,,,,,
+564,Granit Xhaka,,,,,,,,
+565,Jonas Hofmann,,,,,,,,
+566,Florian Neuhaus,,,,,,,,
+567,Xaver Schlager,,,,,,,,
+568,Mathys Tel,,,,,,,,
+569,Andrej Kramaric,,,,,,,,
+570,Koen Casteels,,,,,,,,
+571,Jeremie Frimpong,,,,,,,,
+572,Julian Weigl,,,,,,,,
+573,Diadié Samassékou,,,,,,,,
+574,Benjamin Henrichs,,,,,,,,
+575,Salih Özcan,,,,,,,,
+576,Leonardo Bonucci,,,,,,,,
+577,Maxence Lacroix,,,,,,,,
+578,Yannick Gerhardt,,,,,,,,
+579,Kevin Trapp,,,,,,,,
+580,Benjamin Sesko,,,,,,,,
+581,Christoph Kramer,,,,,,,,
+582,Oliver Baumann,,,,,,,,
+583,Mario Götze,,,,,,,,
+584,Amadou Haidara,,,,,,,,
+585,Nico Elvedi,,,,,,,,
+586,Mergim Berisha,,,,,,,,
+587,Luca Waldschmidt,,,,,,,,
+588,Marius Wolf,,,,,,,,
+589,Ozan Kabak,,,,,,,,
+590,Youssoufa Moukoko,,,,,,,,
+591,Jonas Omlin,,,,,,,,
+592,Castello Lukeba,,,,,,,,
+593,Jamie Bynoe-Gittens,,,,,,,,
+594,Dan-Axel Zagadou,,,,,,,,
+595,Nadiem Amiri,,,,,,,,
+596,Mattias Svanberg,,,,,,,,
+597,Jonathan Tah,,,,,,,,
+598,Robin Gosens,,,,,,,,
+599,Aster Vranckx,,,,,,,,
+600,Sebastiaan Bornauw,,,,,,,,
+601,Ellyes Skhiri,,,,,,,,
+602,Brenden Aaronson,,,,,,,,
+603,Ihlas Bebou,,,,,,,,
+604,Lukas Hradecky,,,,,,,,
+605,Lucas Tousart,,,,,,,,
+606,Giovanni Reyna,,,,,,,,
+607,Santos Borré,,,,,,,,
+608,Florian Grillitsch,,,,,,,,
+609,Jiri Pavlenka,,,,,,,,
+610,Kevin Kampl,,,,,,,,
+611,Fábio Carvalho,,,,,,,,
+612,Leonardo Bittencourt,,,,,,,,
+613,Christoph Baumgartner,,,,,,,,
+614,Hiroki Ito,,,,,,,,
+615,Naby Keïta,,,,,,,,
+616,Florian Wirtz,,,,,,,,
+617,Sebastian Rode,,,,,,,,
+618,Lucas Alario,,,,,,,,
+619,Robin Koch,,,,,,,,
+620,Kevin Mbabu,,,,,,,,
+621,Kevin Volland,,,,,,,,
+622,Luca Netz,,,,,,,,
+623,Kevin Vogt,,,,,,,,
+624,Stefan Lainer,,,,,,,,
+625,Marvin Ducksch,,,,,,,,
+626,Nicolas Seiwald,,,,,,,,
+627,Serhou Guirassy,,,,,,,,
+628,Dennis Geiger,,,,,,,,
+629,Ludovic Ajorque,,,,,,,,
+630,Wout Weghorst,,,,,,,,
+631,Maximilian Wöber,,,,,,,,
+632,Maximilian Philipp,,,,,,,,
+633,Marius Bülter,,,,,,,,
+634,Piero Hincapié,,,,,,,,
+635,Julian Ryerson,,,,,,,,
+636,Jonas Wind,,,,,,,,
+637,Marvin Friedrich,,,,,,,,
+638,Attila Szalai,,,,,,,,
+639,Victor Boniface,,,,,,,,
+640,Sven Ulreich,,,,,,,,
+641,Jens Petter Hauge,,,,,,,,
+642,Pavel Kaderabek,,,,,,,,
+643,Patrick Wimmer,,,,,,,,
+644,Lukas Nmecha,,,,,,,,
+645,Mohamed Simakan,,,,,,,,
+646,Philipp Max,,,,,,,,
+647,Mitchell Weiser,,,,,,,,
+648,Edimilson Fernandes,,,,,,,,
+649,Hannes Wolf,,,,,,,,
+650,Kouadio Koné,,,,,,,,
+651,Bouna Sarr,,,,,,,,
+652,Joakim Maehle,,,,,,,,
+653,Anton Stach,,,,,,,,
+654,Ko Itakura,,,,,,,,
+655,Ivan Ordets,,,,,,,,
+656,Jae-sung Lee,,,,,,,,
+657,Josip Stanisic,,,,,,,,
+658,Silvan Widmer,,,,,,,,
+659,Adam Hlozek,,,,,,,,
+660,Nicolai Rapp,,,,,,,,
+661,David Datro Fofana,,,,,,,,
+662,Robert Skov,,,,,,,,
+663,El Chadaille Bitshiabu,,,,,,,,
+664,Ridle Baku,,,,,,,,
+665,Nathan Tella,,,,,,,,
+666,Mark Uth,,,,,,,,
+667,Dominik Kohr,,,,,,,,
+668,Stefan Bell,,,,,,,,
+669,Jordan Siebatcheu,,,,,,,,
+670,Alex Kral,,,,,,,,
+671,Karim Onisiwo,,,,,,,,
+672,Rogério,,,,,,,,
+673,Patrick Herrmann,,,,,,,,
+674,Anthony Caci,,,,,,,,
+675,Leandro Barreiro Martins,,,,,,,,
+676,Odilon Kossounou,,,,,,,,
+677,Ilaix Moriba,,,,,,,,
+678,Dawid Kownacki,,,,,,,,
+679,Josip Juranovic,,,,,,,,
+680,Vaclav Cerny,,,,,,,,
+681,Robert Andrich,,,,,,,,
+682,Omar Marmoush,,,,,,,,
+683,Xavi Simons,,,,,,,,
+684,Kevin Akpoguma,,,,,,,,
+685,Daniel Peretz,,,,,,,,
+686,Genki Haraguchi,,,,,,,,
+687,Amin Sarr,,,,,,,,
+688,Robin Zentner,,,,,,,,
+689,Felix Uduokhai,,,,,,,,
+690,Robin Knoche,,,,,,,,
+691,Janis Blaswich,,,,,,,,
+692,Japhet Tanganga,,,,,,,,
+693,Jeffrey Gouweleeuw,,,,,,,,
+694,Tiago Tomás,,,,,,,,
+695,Jérôme Roussillon,,,,,,,,
+696,John Anthony Brooks,,,,,,,,
+697,Jonathan Burkardt,,,,,,,,
+698,Davie Selke,,,,,,,,
+699,Tuta,,,,,,,,
+700,Tony Jantschke,,,,,,,,
+701,Niklas Stark,,,,,,,,
+702,Makoto Hasebe,,,,,,,,
+703,Florian Kainz,,,,,,,,
+704,Moritz Jenz,,,,,,,,
+705,Tom Krauß,,,,,,,,
+706,Elvis Rexhbecaj,,,,,,,,
+707,Sheraldo Becker,,,,,,,,
+708,Bartol Franjic,,,,,,,,
+709,Angelo Stiller,,,,,,,,
+710,Franck Honorat,,,,,,,,
+711,Lys Mousset,,,,,,,,
+712,Erhan Masovic,,,,,,,,
+713,Bernardo,,,,,,,,
+714,Tim Kleindienst,,,,,,,,
+715,Jan Thielmann,,,,,,,,
+716,Milos Veljkovic,,,,,,,,
+717,Pavao Pervan,,,,,,,,
+718,Timothy Chandler,,,,,,,,
+719,Christopher Lenz,,,,,,,,
+720,Andreas Hanche-Olsen,,,,,,,,
+721,Deniz Undav,,,,,,,,
+722,András Schäfer,,,,,,,,
+723,Joe Scally,,,,,,,,
+724,Marvin Schwäbe,,,,,,,,
+725,Frederik Rönnow,,,,,,,,
+726,Stanley Nsoki,,,,,,,,
+727,Nicolas Cozza,,,,,,,,
+728,Jakub Kaminski,,,,,,,,
+729,Anthony Jung,,,,,,,,
+730,Michael Gregoritsch,,,,,,,,
+731,Amine Adli,,,,,,,,
+732,Ermedin Demirovic,,,,,,,,
+733,Silas Wamangituka,,,,,,,,
+734,Timo Hübers,,,,,,,,
+735,Fabian Bredlow,,,,,,,,
+736,Senne Lynen,,,,,,,,
+737,Kevin Müller,,,,,,,,
+738,Janik Haberer,,,,,,,,
+739,Kristijan Jakic,,,,,,,,
+740,Nathan N'Goumou,,,,,,,,
+741,Christian Günter,,,,,,,,
+742,Jamie Leweling,,,,,,,,
+743,Felix Passlack,,,,,,,,
+744,Iago,,,,,,,,
+745,Dominique Heintz,,,,,,,,
+746,Tomas Koubek,,,,,,,,
+747,Cédric Zesiger,,,,,,,,
+748,Arne Maier,,,,,,,,
+749,Maximilian Beier,,,,,,,,
+750,Maximilian Mittelstädt,,,,,,,,
+751,Mateu Morey Bauzà,,,,,,,,
+752,Kasim Adams,,,,,,,,
+753,Danny da Costa,,,,,,,,
+754,Maximilian Eggestein,,,,,,,,
+755,Maxim Leitsch,,,,,,,,
+756,Niklas Dorsch,,,,,,,,
+757,Vincenzo Grifo,,,,,,,,
+758,Josha Vagnoman,,,,,,,,
+759,Timothy Fosu-Mensah,,,,,,,,
+760,Nicolas Höfler,,,,,,,,
+761,Benno Schmitz,,,,,,,,
+762,Kevin Paredes,,,,,,,,
+763,Alexander Schwolow,,,,,,,,
+764,Christopher Trimmel,,,,,,,,
+765,Phillipp Mwene,,,,,,,,
+766,Kilian Fischer,,,,,,,,
+767,Rubén Vargas,,,,,,,,
+768,Leart Paqarada,,,,,,,,
+769,Rani Khedira,,,,,,,,
+770,Finn Dahmen,,,,,,,,
+771,Ritsu Doan,,,,,,,,
+772,Aïssa Laïdouni,,,,,,,,
+773,Grischa Prömel,,,,,,,,
+774,Aymen Barkok,,,,,,,,
+775,Manuel Riemann,,,,,,,,
+776,Dejan Ljubicic,,,,,,,,
+777,Woo-yeong Jeong,,,,,,,,
+778,Farès Chaïbi,,,,,,,,
+779,Klaus Gjasula,,,,,,,,
+780,Reece Oxford,,,,,,,,
+781,Tomas Cvancara,,,,,,,,
+782,Maximilian Wittek,,,,,,,,
+783,Mads Pedersen,,,,,,,,
+784,Marco Richter,,,,,,,,
+785,Willian Pacho,,,,,,,,
+786,Tobias Kempe,,,,,,,,
+787,Christian Groß,,,,,,,,
+788,Marvin Pieringer,,,,,,,,
+789,Christoph Zimmermann,,,,,,,,
+790,Philipp Hofmann,,,,,,,,
+791,Dion Beljo,,,,,,,,
+792,Gil Dias,,,,,,,,
+793,Olivier Deman,,,,,,,,
+794,Matej Kovar,,,,,,,,
+795,Marcel Schuhen,,,,,,,,
+796,Hugo Larsson,,,,,,,,
+797,Waldemar Anton,,,,,,,,
+798,Phillip Tietz,,,,,,,,
+799,Marnon Busch,,,,,,,,
+800,Éric Ebimbe,,,,,,,,
+801,Roland Sallai,,,,,,,,
+802,Denis Thomalla,,,,,,,,
+803,Kevin Behrens,,,,,,,,
+804,Julian Chabot,,,,,,,,
+805,Rocco Reitz,,,,,,,,
+806,Gonçalo Paciência,,,,,,,,
+807,Arthur,,,,,,,,
+808,Marco Friedl,,,,,,,,
+809,Kevin Stöger,,,,,,,,
+810,Fabian Holland,,,,,,,,
+811,Pascal Stenzel,,,,,,,,
+812,Matthias Bader,,,,,,,,
+813,Jessic Ngankam,,,,,,,,
+814,Junior Adamu,,,,,,,,
+815,Mikkel Kaufmann,,,,,,,,
+816,Masaya Okugawa,,,,,,,,
+817,Matus Bero,,,,,,,,
+818,Niels Nkounkou,,,,,,,,
+819,Sven Michel,,,,,,,,
+820,Philipp Lienhart,,,,,,,,
+821,Steffen Tigges,,,,,,,,
+822,Nikolas Nartey,,,,,,,,
+823,Cristian Gamboa,,,,,,,,
+824,Christoph Klarer,,,,,,,,
+825,Danilho Doekhi,,,,,,,,
+826,Philipp Förster,,,,,,,,
+827,Patric Pfeiffer,,,,,,,,
+828,Luca Pfeiffer,,,,,,,,
+829,Benjamin Uphoff,,,,,,,,
+830,Jens Stage,,,,,,,,
+831,Felix Agu,,,,,,,,
+832,Dimitrios Limnios,,,,,,,,
+833,Robin Hack,,,,,,,,
+834,Amos Pieper,,,,,,,,
+835,Sargis Adamyan,,,,,,,,
+836,Tobias Sippel,,,,,,,,
+837,Raphael Framberger,,,,,,,,
+838,Alexander Meyer,,,,,,,,
+839,Irvin Cardona,,,,,,,,
+840,Fredrik Jensen,,,,,,,,
+841,Braydon Manu,,,,,,,,
+842,Nathanaël Mbuku,,,,,,,,
+843,Julian Justvan,,,,,,,,
+844,Sepp van den Berg,,,,,,,,
+845,Mamadou Doucouré,,,,,,,,
+846,Anthony Losilla,,,,,,,,
+847,Keven Schlotterbeck,,,,,,,,
+848,Ansgar Knauff,,,,,,,,
+849,Lucas Höler,,,,,,,,
+850,Jonas Föhrenbach,,,,,,,,
+851,Patrick Osterhage,,,,,,,,
+852,Matej Maglica,,,,,,,,
+853,Tim Breithaupt,,,,,,,,
+854,Benedict Hollerbach,,,,,,,,
+855,Benedikt Gimber,,,,,,,,
+856,Lukas Daschner,,,,,,,,
+857,Florian Müller,,,,,,,,
+858,Fabian Nürnberger,,,,,,,,
+859,Grant-Leon Ranos,,,,,,,,
+860,Leopold Zingerle,,,,,,,,
+861,Patrick Mainka,,,,,,,,
+862,Faride Alidou,,,,,,,,
+863,Aurélio Buta,,,,,,,,
+864,Dzenan Pejcinovic,,,,,,,,
+865,Jan Schöppner,,,,,,,,
+866,Manuel Gulde,,,,,,,,
+867,Oscar Vilhelmsson,,,,,,,,
+868,Atakan Karazor,,,,,,,,
+869,Fraser Hornby,,,,,,,,
+870,Takuma Asano,,,,,,,,
+871,Jacob Christensen,,,,,,,,
+872,Filip Stojilkovic,,,,,,,,
+873,Moritz-Broni Kwarteng,,,,,,,,
+874,Danilo Soares,,,,,,,,
+875,Tim Skarke,,,,,,,,
+876,Paul Jaeckel,,,,,,,,
+877,Jakob Busk,,,,,,,,
+878,Norman Theuerkauf,,,,,,,,
+879,Nikola Dovedan,,,,,,,,
+880,Jovan Milosevic,,,,,,,,
+881,Lukas Ullrich,,,,,,,,
+882,Jordi Osei-Tutu,,,,,,,,
+883,Lukas Kübler,,,,,,,,
+884,Fabian Schnellhardt,,,,,,,,
+885,Chris Führich,,,,,,,,
+886,Noah Loosli,,,,,,,,
+887,Luca Kilian,,,,,,,,
+888,Florian Dietz,,,,,,,,
+889,Romano Schmid,,,,,,,,
+890,Jan Olschowsky,,,,,,,,
+891,Finn Ole Becker,,,,,,,,
+892,Laurin Ulrich,,,,,,,,
+893,Daniel-Kofi Kyereh,,,,,,,,
+894,Nelson Weiper,,,,,,,,
+895,Yvandro Borges Sanches,,,,,,,,
+896,Linton Maina,,,,,,,,
+897,Kauã Santos,,,,,,,,
+898,Jens Grahl,,,,,,,,
+899,Nacho Ferri,,,,,,,,
+900,Simon Walde,,,,,,,,
+901,Diogo Leite,,,,,,,,
+902,Thomas Kastanaras,,,,,,,,
+903,Michael Esser,,,,,,,,
+904,Mathias Honsak,,,,,,,,
+905,Kiliann Sildillia,,,,,,,,
+906,Andreas Müller,,,,,,,,
+907,Marcel Wenig,,,,,,,,
+908,Omar-Haktab Traoré,,,,,,,,
+909,Enzo Millot,,,,,,,,
+910,Stefan Schimmer,,,,,,,,
+911,Maximilian Bauer,,,,,,,,
+912,Rasmus Carstensen,,,,,,,,
+913,Niklas Klinger,,,,,,,,
+914,Clemens Riedel,,,,,,,,
+915,Christopher Antwi-Adjei,,,,,,,,
+916,Marvin Mehlem,,,,,,,,
+917,Jan-Niklas Beste,,,,,,,,
+918,Fabio Chiarodia,,,,,,,,
+919,Christian Kühlwetter,,,,,,,,
+920,Noah Mbamba,,,,,,,,
+921,David Colina,,,,,,,,
+922,Niklas Lomb,,,,,,,,
+923,Florian Pick,,,,,,,,
+924,Eric Martel,,,,,,,,
+925,Vitus Eicher,,,,,,,,
+926,Eren Dinkci,,,,,,,,
+927,Tim Oermann,,,,,,,,
+928,Ole Pohlmann,,,,,,,,
+929,Justin Njinmah,,,,,,,,
+930,Robert Gumny,,,,,,,,
+931,Mathias Olesen,,,,,,,,
+932,Paxten Aaronson,,,,,,,,
+933,Lasse Rieß,,,,,,,,
+934,Denis Huseinbasic,,,,,,,,
+935,Marcel Lotka,,,,,,,,
+936,Julien Duranville,,,,,,,,
+937,Alexander Brunst,,,,,,,,
+938,Gustavo Puerta,,,,,,,,
+939,Daniel Batz,,,,,,,,
+940,Jonas Nickisch,,,,,,,,
+941,Leonidas Stergiou,,,,,,,,
+942,Roberto Massimo,,,,,,,,
+943,Nick Woltemade,,,,,,,,
+944,Philipp Pentke,,,,,,,,
+945,Abdoulaye Kamara,,,,,,,,
+946,Luca Philipp,,,,,,,,
+947,Adrian Beck,,,,,,,,
+948,Niclas Thiede,,,,,,,,
+949,Antonios Papadopoulos,,,,,,,,
+950,Michael Zetterer,,,,,,,,
+951,Emir Karic,,,,,,,,
+952,Ayman Aourir,,,,,,,,
+953,Davis Bautista,,,,,,,,
+954,Jordy Makengo,,,,,,,,
+955,Eduardo Dos Santos Haesler,,,,,,,,
+956,Nnamdi Collins,,,,,,,,
+957,Paul Tschernuth,,,,,,,,
+958,Philipp Schulz,,,,,,,,
+959,Philipp Schulze,,,,,,,,
+960,Hrvoje Smolcic,,,,,,,,
+961,Sidney Raebiger,,,,,,,,
+962,Simon Simoni,,,,,,,,
+963,Eniss Shabani,,,,,,,,
+964,Elidon Qenaj,,,,,,,,
+965,Elias Bakatukanda,,,,,,,,
+966,Tarek Buchmann,,,,,,,,
+967,Thomas Keller,,,,,,,,
+968,Tom Hülsmann,,,,,,,,
+969,Ulysses Llanez,,,,,,,,
+970,Umut Tohumcu,,,,,,,,
+971,Aljoscha Kemlein,,,,,,,,
+972,Maximilian Brüll,,,,,,,,
+973,Morten Behrens,,,,,,,,
+974,Leon Opitz,,,,,,,,
+975,Damion Downs,,,,,,,,
+976,Jannik Müller,,,,,,,,
+977,Noel Futkeu,,,,,,,,
+978,Dario Gebuhr,,,,,,,,
+979,Max Rosenfelder,,,,,,,,
+980,Nahuel Noll,,,,,,,,
+981,Moritz Broschinski,,,,,,,,
+982,Thomas Isherwood,,,,,,,,
+983,Lilian Egloff,,,,,,,,
+984,Yannic Stein,,,,,,,,
+985,Moritz Römling,,,,,,,,
+986,Luka Janes,,,,,,,,
+987,Dennis Seimen,,,,,,,,
+988,Madi Monamay,,,,,,,,
+989,Marcel Lubik,,,,,,,,
+990,Marco John,,,,,,,,
+991,Timo Schlieck,,,,,,,,
+992,Noah Weißhaupt,,,,,,,,
+993,Noah Katterbach,,,,,,,,
+994,Tim Siersleben,,,,,,,,
+995,Noah Atubolu,,,,,,,,
+996,Mats Pannewig,,,,,,,,
+997,Matthias Köbbing,,,,,,,,
+998,Max Finkgräfe,,,,,,,,
+999,Tom Bischof,,,,,,,,
+1000,Yannik Keitel,,,,,,,,
+1001,Brajan Gruda,,,,,,,,
+1002,Aaron Zehnter,,,,,,,,
+1003,Bambasé Conté,,,,,,,,
+1004,Mehdi Loune,,,,,,,,
+1005,Merlin Röhl,,,,,,,,
+1006,Mert Kömür,,,,,,,,
+1007,Arne Engels,,,,,,,,
+1008,Merveille Papela,,,,,,,,
+1009,Florian Schock,,,,,,,,
+1010,Frank Feller,,,,,,,,
+1011,Seedy Jarju,,,,,,,,
+1012,Frank Ronstadt,,,,,,,,
+1013,Felix Lange,,,,,,,,
+1014,Aaron Seydel,,,,,,,,
+1015,Fabio Torsiello,,,,,,,,
+1016,Frederik Winther,,,,,,,,
+1017,Anthony Rouault,,,,,,,,
+1018,Silas Ostrzinski,,,,,,,,
+1019,Harpreet Ghotra,,,,,,,,
+1020,Mohammed Tolba,,,,,,,,
+1021,Joshua Quarshie,,,,,,,,
+1022,Kenneth Schmidt,,,,,,,,
+1023,Kevin Sessa,,,,,,,,
+1024,Moritz Nicolas,,,,,,,,
+1025,Laurenz Dehl,,,,,,,,
+1026,Lennard Maloney,,,,,,,,
+1027,Alexander Nübel,,,,,,,,

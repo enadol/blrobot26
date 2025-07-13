@@ -1,0 +1,1 @@
+SELECT DISTINCT Puntos.Equipo, Puntos.Jornada, Puntos.Total_Puntos, Goles.Diferencia AS DIF FROM Puntos INNER JOIN Goles ON Puntos.Jornada = Goles.Jornada AND Puntos.Equipo = Goles.Equipo WHERE Puntos.Jornada=33 OR Puntos.Jornada=34 ORDER BY Goles.Jornada ASC, Puntos.Total_Puntos ASC, Goles.Diferencia DESC, Goles.Equipo DESC LIMIT 0, 50000;

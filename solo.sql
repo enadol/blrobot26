@@ -1,0 +1,1 @@
+SELECT Equipo, Diferencia FROM Goles WHERE Equipo="FC St. Pauli" AND Jornada=7

@@ -1,0 +1,19 @@
+SELECT Partidos.Equipo,
+MAX(Partidos.PJ) AS PJ,
+MAX(Partidos.PG) AS PG,
+MAX(Partidos.PE) AS PE,
+MAX(Partidos.PP) AS PP,
+MAX(Goles.Goles_a_favor) AS GF,
+MAX(Goles.Goles_en_contra) AS GC,
+MAX(Goles.Goles_a_favor)-MAX(Goles.Goles_en_contra) AS DIF,
+MAX(Puntos.Total_Puntos) AS Puntos
+FROM Partidos JOIN Goles,
+Puntos WHERE Partidos.Equipo=Goles.Equipo
+AND Goles.Equipo=Puntos.Equipo
+AND Puntos.Jornada<=7
+AND Goles.Jornada=Puntos.Jornada
+GROUP BY Partidos.Equipo 
+ORDER BY Puntos DESC,
+DIF DESC,
+GF DESC,
+Puntos.Equipo DESC
