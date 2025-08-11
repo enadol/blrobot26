@@ -34,6 +34,11 @@ def run(playwright: Playwright) -> None:
     page.goto("https://www.kicker.de/")
     page.get_by_role("link", name="Zustimmen & weiter").click()
     get_clubes_stats(page)
+    classify_teams()
+    get_goals_away_indexes()
+    get_goals_home_indexes()
+    match_in()
+    me_robot()
     # ---------------------
     context.close()
     browser.close()
@@ -54,9 +59,9 @@ def get_clubes_stats(page):
         lst_goles.extend(gol.strip())
     for jornada in jornadas:
         lst_jornadas.extend(jornada.strip())
-    print(clubes)
-    print(jornadas)
-    print(goles)
+    print(len(clubes))
+    print(len(jornadas))
+    print(len(goles))
 
 # pendiente 10 AGOSTO
 
@@ -69,8 +74,6 @@ def classify_teams():
         else:
             lst_away.append(club)
             #count=count+1
-
-classify_teams()
 
 def goles_class():
     nbuffer=0
@@ -100,9 +103,6 @@ def get_goals_home_indexes():
     while(factor<len(lst_goles)):
         lst_indexes_home.append(factor)
         factor=factor+4
-
-get_goals_away_indexes()
-get_goals_home_indexes()
 
 for index in lst_indexes_away:
     element=lst_goles[index-1]
@@ -139,9 +139,6 @@ def me_robot():
             count2=count2+1
     file.close() 
         
-
-match_in()
-me_robot()
 
 with sync_playwright() as playwright:
     run(playwright)
