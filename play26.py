@@ -61,6 +61,8 @@ def get_clubes_stats(page):
         lst_goles.extend(gol.strip())
     for jornada in jornadas:
         lst_jornadas.extend(jornada.strip())
+    lst_goles.insert(486, "0")
+    lst_goles.insert(487, "2")
     print(len(clubes))
     print(len(jornadas))
     print(len(goles))
