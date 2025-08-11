@@ -34,13 +34,6 @@ def run(playwright: Playwright) -> None:
     page.goto("https://www.kicker.de/")
     page.get_by_role("link", name="Zustimmen & weiter").click()
     get_clubes_stats(page)
-    classify_teams()
-    get_goals_away_indexes()
-    get_goals_home_indexes()
-    set_goles_home()
-    set_goles_away()
-    match_in()
-    me_robot()
     # ---------------------
     context.close()
     browser.close()
@@ -55,22 +48,30 @@ def get_clubes_stats(page):
     jornadas=page.locator(".kick__section-headline").all_inner_texts()
     goles = page.locator(".kick__v100-scoreBoard__scoreHolder__score").all_inner_texts()
     #goles = page.locator(".kick__v100-scoreBoard__scoreHolder__text").all_inner_texts()
-    for club in clubes:
-        lst_clubes.extend(club.strip())
-    for gol in goles:
-        lst_goles.extend(gol.strip())
-    for jornada in jornadas:
-        lst_jornadas.extend(jornada.strip())
-    lst_goles.insert(486, "0")
-    lst_goles.insert(487, "2")
+    #for club in clubes:
+    #    lst_clubes.extend(club.strip())
+    #for gol in goles:
+    #    lst_goles.extend(gol.strip())
+    #for jornada in jornadas:
+    #    lst_jornadas.extend(jornada.strip())
+    goles.insert(486, "0")
+    goles.insert(487, "2")
+    classify_teams(clubes)
+    get_goals_away_indexes(goles)
+    get_goals_home_indexes(goles)
+    set_goles_home(goles)
+    set_goles_away(goles)
+    goles_class(goles)
+    match_in()
+    me_robot()
     print(len(clubes))
     print(len(jornadas))
     print(len(goles))
 
 # pendiente 10 AGOSTO
 
-def classify_teams():
-    for ind, club in enumerate(lst_clubes):
+def classify_teams(clubes):
+    for ind, club in enumerate(clubes):
     #count=2
         if ind%2==0:
             lst_home.append(club)
@@ -79,43 +80,43 @@ def classify_teams():
             lst_away.append(club)
             #count=count+1
 
-def goles_class():
+def goles_class(goles):
     nbuffer=0
-    for n in range(0, len(lst_goles)):
+    for n in range(0, len(goles)):
         nbuffer=nbuffer+n
-        goal=lst_goles[nbuffer]
+        goal=goles[nbuffer]
         lst_goles_home.append(goal)
         nbuffer=nbuffer+1
-        goal=lst_goles[nbuffer]
+        goal=goles[nbuffer]
         lst_goles_home_half.append(goal)
         nbuffer=nbuffer+1
-        goal=lst_goles[nbuffer]
+        goal=goles[nbuffer]
         lst_goles_away.append(goal)
         nbuffer=nbuffer+1
-        goal=lst_goles[nbuffer]
+        goal=goles[nbuffer]
         lst_goles_away_half.append(goal)
         nbuffer=nbuffer+1
             
-def get_goals_away_indexes():
+def get_goals_away_indexes(goles):
     factor=2
-    while(factor<len(lst_goles)):
+    while(factor<len(goles)):
         lst_indexes_away.append(factor)
         factor=factor+4
 
-def get_goals_home_indexes():
+def get_goals_home_indexes(goles):
     factor=0
-    while(factor<len(lst_goles)):
+    while(factor<len(goles)):
         lst_indexes_home.append(factor)
         factor=factor+4
 
-def set_goles_home():
+def set_goles_home(goles):
     for index in lst_indexes_away:
-        element=lst_goles[index-1]
+        element=goles[index-1]
         lst_goles_away.append(element)
 
-def set_goles_away():
+def set_goles_away(goles):
     for index in lst_indexes_home:
-        element=lst_goles[index]
+        element=goles[index]
         lst_goles_home.append(element)
         
 def match_in():
