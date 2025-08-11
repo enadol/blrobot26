@@ -37,6 +37,8 @@ def run(playwright: Playwright) -> None:
     classify_teams()
     get_goals_away_indexes()
     get_goals_home_indexes()
+    set_goles_home()
+    set_goles_away()
     match_in()
     me_robot()
     # ---------------------
@@ -104,13 +106,15 @@ def get_goals_home_indexes():
         lst_indexes_home.append(factor)
         factor=factor+4
 
-for index in lst_indexes_away:
-    element=lst_goles[index-1]
-    lst_goles_away.append(element)
+def set_goles_home():
+    for index in lst_indexes_away:
+        element=lst_goles[index-1]
+        lst_goles_away.append(element)
 
-for index in lst_indexes_home:
-    element=lst_goles[index]
-    lst_goles_home.append(element)
+def set_goles_away():
+    for index in lst_indexes_home:
+        element=lst_goles[index]
+        lst_goles_home.append(element)
         
 def match_in():
     for i in range(0, len(lst_goles_home)):
