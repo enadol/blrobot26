@@ -62,6 +62,7 @@ def convert_dates(lst_dates_cumul):
                date_last_str = datetime.strftime(date_last, '%d.%m.%Y')
                lst_dates_filtered.append(date_last_str)
             #dates_final.append(date_second_str)
+    return lst_dates_filtered
 
 dates_final=convert_dates(lst_dates_cumul)
 
