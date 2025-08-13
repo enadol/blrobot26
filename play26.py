@@ -10,6 +10,7 @@ import re
 from playwright.sync_api import Playwright, sync_playwright, expect
 from gatePLAY import lst_dates_cumul, TORNEO
 import codecs
+from datetime import datetime, date
 
 lst_jornadas=[]
 lst_clubes=[]
@@ -26,6 +27,8 @@ lst_goles_home_half=[]
 lst_goles_away_half=[]
 lst_indexes_home=[]
 lst_indexes_away=[]
+lst_dates_filtered = []
+dates_final = []
 
 def run(playwright: Playwright) -> None:
     browser = playwright.chromium.launch(headless=False)
@@ -40,6 +43,27 @@ def run(playwright: Playwright) -> None:
 
 klass=["kick__v100-scoreBoard__scoreHolder__score", "kick__v100-scoreBoard__scoreHolder__text"]
 
+# convertir los elementos de lst_dates_cumul a un formato de fecha y crear con ellos una nueva lista
+# los elementos de la nueva lista deben quedar en integer y separados por comas
+def convert_dates(lst_dates_cumul):
+    for index, value in enumerate(lst_dates_cumul):
+        if index < 34:
+            element_list_one= lst_dates_cumul[index].split(".")
+            element_list_two= lst_dates_cumul[index+1].split(".")
+            date_first= datetime(int(element_list_one[2]), int(element_list_one[1]), int(element_list_one[0]))
+            date_last = datetime(int(element_list_two[2]), int(element_list_two[1]), int(element_list_two[0]))
+            if (date_last - date_first).days > 1:
+                # convertir el objeto de fecha a un string con el formato deseado
+                date_first_str = datetime.strftime(date_first, '%d.%m.%Y')
+                date_last_str = datetime.strftime(date_last, '%d.%m.%Y')
+                # agregar el string a la lista
+                if index == 0:
+                    lst_dates_filtered.append(date_first_str)
+                else:
+                    lst_dates_filtered.append(date_last_str)
+                #dates_final.append(date_second_str)
+
+convert_dates(lst_dates_cumul)
 
 def get_clubes_stats(page):
     page.goto(f'https://kicker.de/bundesliga/spieltag/{TORNEO}/-1')
@@ -48,30 +72,33 @@ def get_clubes_stats(page):
     jornadas=page.locator(".kick__section-headline").all_inner_texts()
     goles = page.locator(".kick__v100-scoreBoard__scoreHolder__score").all_inner_texts()
     #goles = page.locator(".kick__v100-scoreBoard__scoreHolder__text").all_inner_texts()
-    #for club in clubes:
-    #    lst_clubes.extend(club.strip())
-    #for gol in goles:
-    #    lst_goles.extend(gol.strip())
-    #for jornada in jornadas:
-    #    lst_jornadas.extend(jornada.strip())
+    # para torneo 2025 solamente o irregularidades cambiando el index
     goles.insert(486, "0")
     goles.insert(487, "2")
-    classify_teams(clubes)
-    get_goals_away_indexes(goles)
-    get_goals_home_indexes(goles)
-    set_goles_home(goles)
-    set_goles_away(goles)
-    goles_class(goles)
+    #for club in clubes:
+    #    lst_clubes.extend(club)
+    lst_clubes= clubes
+    #for gol in goles:
+     #   lst_goles.extend(gol.strip())
+    lst_goles = goles
+    for jornada in jornadas:
+        lst_jornadas.append(jornada)
+    #lst_jornadas = jornadas
+
+    classify_teams(lst_clubes)
+    get_goals_away_indexes(lst_goles)
+    get_goals_home_indexes(lst_goles)
+    set_goles_home(lst_goles)
+    set_goles_away(lst_goles)
+    goles_class()
     match_in()
     me_robot()
     print(len(clubes))
     print(len(jornadas))
     print(len(goles))
 
-# pendiente 10 AGOSTO
-
-def classify_teams(clubes):
-    for ind, club in enumerate(clubes):
+def classify_teams(lst_clubes):
+    for ind, club in enumerate(lst_clubes):
     #count=2
         if ind%2==0:
             lst_home.append(club)
@@ -80,43 +107,43 @@ def classify_teams(clubes):
             lst_away.append(club)
             #count=count+1
 
-def goles_class(goles):
+def goles_class():
     nbuffer=0
-    for n in range(0, len(goles)):
+    for n in range(0, len(lst_goles)):
         nbuffer=nbuffer+n
-        goal=goles[nbuffer]
+        goal=lst_goles[nbuffer]
         lst_goles_home.append(goal)
         nbuffer=nbuffer+1
-        goal=goles[nbuffer]
+        goal=lst_goles[nbuffer]
         lst_goles_home_half.append(goal)
         nbuffer=nbuffer+1
-        goal=goles[nbuffer]
+        goal=lst_goles[nbuffer]
         lst_goles_away.append(goal)
         nbuffer=nbuffer+1
-        goal=goles[nbuffer]
+        goal=lst_goles[nbuffer]
         lst_goles_away_half.append(goal)
         nbuffer=nbuffer+1
             
-def get_goals_away_indexes(goles):
+def get_goals_away_indexes(lst_goles):
     factor=2
-    while(factor<len(goles)):
+    while(factor<len(lst_goles)):
         lst_indexes_away.append(factor)
         factor=factor+4
 
-def get_goals_home_indexes(goles):
+def get_goals_home_indexes(lst_goles):
     factor=0
-    while(factor<len(goles)):
+    while(factor<len(lst_goles)):
         lst_indexes_home.append(factor)
         factor=factor+4
 
-def set_goles_home(goles):
+def set_goles_home(lst_goles):
     for index in lst_indexes_away:
-        element=goles[index-1]
+        element=lst_goles[index-1]
         lst_goles_away.append(element)
 
-def set_goles_away(goles):
+def set_goles_away(lst_goles):
     for index in lst_indexes_home:
-        element=goles[index]
+        element=lst_goles[index]
         lst_goles_home.append(element)
         
 def match_in():
@@ -133,19 +160,19 @@ def me_robot():
         count2=0
         for line in lst_match:
             g=lst_match.index(line)
-            if g%9==0:
+            if g%9 == 0:
                 file.write(lst_jornadas[count_jornadas]+ "\n")
-                file.write(lst_dates_cumul[count_jornadas]+'\n')
+                file.write(lst_dates_filtered[count_jornadas]+'\n')
                     #file.write("    "+ line)
                 file.write(f'    {line}')
-                count_jornadas=count_jornadas+1
+                count_buffer = count_jornadas + 1
+                count_jornadas=count_buffer
             else:
                 if count2<=len(lst_match):
                         #file.write("    "+line)
                     file.write(f'    {line}')
             count2=count2+1
     file.close() 
-        
 
 with sync_playwright() as playwright:
     run(playwright)
