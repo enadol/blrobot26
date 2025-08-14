@@ -47,20 +47,20 @@ klass=["kick__v100-scoreBoard__scoreHolder__score", "kick__v100-scoreBoard__scor
 # los elementos de la nueva lista deben quedar en integer y separados por comas
 def convert_dates(lst_dates_cumul):
     for index, value in enumerate(lst_dates_cumul):
-        #if index < 34:
-        element_list_one= lst_dates_cumul[index].split(".")
-        element_list_two= lst_dates_cumul[index+1].split(".")
-        date_first= datetime(int(element_list_one[2]), int(element_list_one[1]), int(element_list_one[0]))
-        date_last = datetime(int(element_list_two[2]), int(element_list_two[1]), int(element_list_two[0]))
+        if index < len(lst_dates_cumul)-1:
+            element_list_one= lst_dates_cumul[index].split(".")
+            element_list_two= lst_dates_cumul[index+1].split(".")
+            date_first= datetime(int(element_list_one[2]), int(element_list_one[1]), int(element_list_one[0]))
+            date_last = datetime(int(element_list_two[2]), int(element_list_two[1]), int(element_list_two[0]))
 
-        if index == 0:
-            date_first_str = datetime.strftime(date_first, '%d.%m.%Y')
-            lst_dates_filtered.append(date_first_str)
-        else:
-            if (date_last - date_first).days > 1:
+            if index == 0:
+                date_first_str = datetime.strftime(date_first, '%d.%m.%Y')
+                lst_dates_filtered.append(date_first_str)
+            else:
+                if (date_last - date_first).days > 1:
             # convertir el objeto de fecha a un string con el formato deseado
-               date_last_str = datetime.strftime(date_last, '%d.%m.%Y')
-               lst_dates_filtered.append(date_last_str)
+                   date_last_str = datetime.strftime(date_last, '%d.%m.%Y')
+                   lst_dates_filtered.append(date_last_str)
             #dates_final.append(date_second_str)
     return lst_dates_filtered
 
