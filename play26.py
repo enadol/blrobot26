@@ -19,7 +19,6 @@ lst_away=[]
 count=0
 countgoles=0
 lst_match=[]
-lst_MD=[]
 lst_goles=[]
 lst_goles_home=[]
 lst_goles_away=[]
@@ -137,12 +136,12 @@ def get_goals_home_indexes(lst_goles):
         lst_indexes_home.append(factor)
         factor=factor+4
 
-def set_goles_home(lst_goles):
+def set_goles_away(lst_goles):
     for index in lst_indexes_away:
         element=lst_goles[index-1]
         lst_goles_away.append(element)
 
-def set_goles_away(lst_goles):
+def set_goles_home(lst_goles):
     for index in lst_indexes_home:
         element=lst_goles[index]
         lst_goles_home.append(element)
