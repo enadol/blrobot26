@@ -49,7 +49,7 @@ def convert_dates(lst_dates_cumul):
     for index, value in enumerate(lst_dates_cumul):
         if index < len(lst_dates_cumul)-1:
             element_list_one= lst_dates_cumul[index].split(".")
-            element_list_two= next(lst_dates_cumul[index]).split(".")
+            element_list_two= lst_dates_cumul[index+1].split(".")
             date_first= datetime(int(element_list_one[2]), int(element_list_one[1]), int(element_list_one[0]))
             date_last = datetime(int(element_list_two[2]), int(element_list_two[1]), int(element_list_two[0]))
 
@@ -163,9 +163,10 @@ def me_robot():
             g=lst_match.index(line)
             if g%9 == 0:
                 file.write(lst_jornadas[count_jornadas]+ "\n")
-                file.write(dates_final[count_jornadas]+'\n')
+                if count_jornadas < len(dates_final):
+                    file.write(dates_final[count_jornadas]+'\n')
                     #file.write("    "+ line)
-                file.write(f'    {line}')
+                    file.write(f'    {line}')
                 count_buffer = count_jornadas + 1
                 count_jornadas=count_buffer
             else:
