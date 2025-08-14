@@ -1,7 +1,7 @@
 import re
 from playwright.sync_api import Playwright, sync_playwright, expect
 
-MD=5
+MD=3
 TORNEO='2024-25'
 lst_dates_cumul = []
 
