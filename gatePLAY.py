@@ -1,8 +1,10 @@
-import re
+"""This script uses Playwright to scrape matchday dates from the Kicker website for/
+ the Bundesliga season 2025-26.
+It collects the dates for each matchday and stores them in a cumulative list."""
 from playwright.sync_api import Playwright, sync_playwright, expect
 
 MD=34
-TORNEO='2024-25'
+TORNEO='2025-26'
 lst_dates_cumul = []
 
 def get_mdd_dates(mday, page):
@@ -18,6 +20,7 @@ def get_mdd_dates(mday, page):
     return list_mdd_dates
 
 def run(playwright: Playwright) -> None:
+    """Main function to run the Playwright script"""
     browser = playwright.chromium.launch(headless=False)
     context = browser.new_context()
     page = context.new_page()
