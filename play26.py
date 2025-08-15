@@ -47,12 +47,12 @@ def convert_dates(lst_dates_cumul):
                                  int(element_list_two[0]))
 
             if index == 0:
-                date_first_str = datetime.strftime(date_first, '%d.%m.%Y')
+                date_first_str = datetime.strftime(date_first, '[%a. %d.%#m.]')
                 lst_dates_filtered.append(date_first_str)
             else:
                 if (date_last - date_first).days > 1:
                     # convertir el objeto de fecha a un string con el formato deseado
-                    date_last_str = datetime.strftime(date_last, '%a. %d.%m.')
+                    date_last_str = datetime.strftime(date_last, '[%a. %d.%#m.]')
                     lst_dates_filtered.append(date_last_str)
     return lst_dates_filtered
 
@@ -145,7 +145,7 @@ def match_in():
     """Function to create a structured list of matches with home and away teams and their scores"""
     for i in range(0, min(len(lst_goles_home), len(lst_goles_away))):
         lst_match.append(f'    {lst_home[i]}  {lst_goles_home[i]}-{lst_goles_away[i]} \
-{lst_away[i]}\n')
+ {lst_away[i]}\n')
     return lst_match
 
 def me_robot():
