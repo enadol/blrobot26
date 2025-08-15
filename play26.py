@@ -52,7 +52,7 @@ def convert_dates(lst_dates_cumul):
             else:
                 if (date_last - date_first).days > 1:
                     # convertir el objeto de fecha a un string con el formato deseado
-                    date_last_str = datetime.strftime(date_last, '%d.%m.%Y')
+                    date_last_str = datetime.strftime(date_last, '%a. %d.%m.%Y')
                     lst_dates_filtered.append(date_last_str)
     return lst_dates_filtered
 
