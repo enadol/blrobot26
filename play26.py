@@ -65,8 +65,8 @@ def get_clubes_stats(page):
     jornadas = page.locator(".kick__section-headline").all_inner_texts()
     goles = page.locator(".kick__v100-scoreBoard__scoreHolder__score").all_inner_texts()
     # para torneo 2025 solamente o irregularidades cambiando el index
-    goles.insert(486, "0")
-    goles.insert(487, "2")
+    #goles.insert(486, "0")
+    #goles.insert(487, "2")
     lst_clubes = clubes
     lst_goles = goles
     for jornada in jornadas:
