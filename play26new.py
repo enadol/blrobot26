@@ -151,7 +151,7 @@ def match_in():
 def me_robot():
     """Function to write the match data into a text file with the tournament name"""
     with codecs.open(f'C:/Users/enado/Proyectos/Python33/merobot/\
-bundesliga-{TORNEO[5:]}.txt', "w", "utf-8") as file:
+bundesliga-{TORNEO[:2]}{TORNEO[5:]}.txt', "w", "utf-8") as file:
         file.write("\ufeff")
         count_jornadas = 0
         for line in lst_match:
