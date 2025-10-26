@@ -16,8 +16,8 @@ try:
     import seasonbuilderwd
     import computelocal
     import computevisitor #NEW
-    import computetotall #NEW
-    import computetotalv #NEW
+    #import computetotall #NEW
+    #import computetotalv #NEW
     import injectsqlwd
     #import injectsqllocal
     #import injectsqlvisitor

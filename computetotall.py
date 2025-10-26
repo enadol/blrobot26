@@ -4,7 +4,7 @@ Created on Tue Apr  7 11:33:25 2020
 
 @author: Enrique Lopez
 """
-from precompute import clubes
+from precomputewd import clubes
 from computelocal import MDSolol
 lstTotalsClubl = []
 lstTotalMDRowsl = []

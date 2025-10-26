@@ -4,7 +4,7 @@ It collects the dates for each matchday and stores them in a cumulative list."""
 from playwright.sync_api import Playwright, sync_playwright, expect
 
 
-MD=6
+MD=8
 
 TORNEO='2025-26'
 lst_dates_cumul = []
