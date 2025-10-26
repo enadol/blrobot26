@@ -12,7 +12,7 @@ lst_dates_cumul = []
 def get_mdd_dates(mday, page):
     """create empty list to populate with dates"""
     list_mdd_dates = []
-    page.goto(f'https://kicker.de/bundesliga/spieltag/{TORNEO}/{mday}')
+    page.goto(f'https://kicker.de/bundesliga/spieltag/{TORNEO}/{mday}', timeout=60000)
     dates = page.locator(".kick__v100-gameList__header").all_inner_texts()
     #dates = re.findall(r'\d{1,2}\.\s\w+\.\s\d{4}', date)
     for date in dates:

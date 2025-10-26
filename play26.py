@@ -27,7 +27,7 @@ def run(playwright: Playwright) -> None:
     context = browser.new_context()
     page = context.new_page()
     page.goto("https://www.kicker.de/")
-    page.get_by_role("link", name="Zustimmen & weiter").click()
+    page.get_by_role("link", name="Zustimmen & weiter").click(timeout=60000)
     get_clubes_stats(page)
     # ---------------------
     context.close()
@@ -60,7 +60,7 @@ dates_final = convert_dates(lst_dates_cumul)
 
 def get_clubes_stats(page):
     """Function to get the clubs stats from the Bundesliga page"""
-    page.goto(f'https://kicker.de/bundesliga/spieltag/{TORNEO}/-1')
+    page.goto(f'https://kicker.de/bundesliga/spieltag/{TORNEO}/-1', timeout=60000)
     clubes = page.locator(".kick__v100-gameCell__team__name").all_inner_texts()
     jornadas = page.locator(".kick__section-headline").all_inner_texts()
     goles = page.locator(".kick__v100-scoreBoard__scoreHolder__score").all_inner_texts()
