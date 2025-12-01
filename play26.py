@@ -79,7 +79,8 @@ def get_clubes_stats(page):
     set_goles_away(lst_goles)
     goles_class()
     match_in()
-    me_robot()
+    actualizar_open(TORNEO, lst_match, lst_jornadas, dates_final)
+    #me_robot()
     #print(len(clubes))
     #print(len(jornadas))
     #print(len(goles))
@@ -155,6 +156,32 @@ def me_robot():
         count_jornadas = 0
         for line in lst_match:
             g = lst_match.index(line)
+            if g % 9 == 0:
+                file.write(lst_jornadas[count_jornadas] + "\n")
+                if count_jornadas < len(dates_final):
+                    file.write(dates_final[count_jornadas] + '\n')
+                file.write(f'    {line}')
+                count_jornadas += 1
+            else:
+                file.write(f'    {line}')
+
+def actualizar_open(TORNEO, lst_match, lst_jornadas, dates_final):
+    """Function to write the match data into a text file with the tournament name using open()"""
+    # La ruta y el nombre del archivo se construyen igual.
+    # Usamos 'w' para escribir (write) y 'encoding="utf-8"' para especificar la codificación.
+    with open(f'C:/Users/enado/Proyectos/Python33/merobot/bundesliga-{TORNEO[:2]}{TORNEO[5:]}.txt', "w", encoding="utf-8") as file:
+        
+        # El carácter '\ufeff' (BOM - Byte Order Mark) ya no suele ser necesario 
+        # cuando se usa 'utf-8' de forma estándar en 'open()', pero si es vital 
+        # para tu aplicación, lo mantienes. Para archivos que solo contienen 
+        # texto, normalmente se omite.
+        # file.write("\ufeff") 
+        
+        count_jornadas = 0
+        for g, line in enumerate(lst_match):
+            # En lugar de usar lst_match.index(line), es más eficiente usar enumerate(lst_match)
+            # para obtener el índice 'g' y el valor 'line' directamente.
+            
             if g % 9 == 0:
                 file.write(lst_jornadas[count_jornadas] + "\n")
                 if count_jornadas < len(dates_final):
