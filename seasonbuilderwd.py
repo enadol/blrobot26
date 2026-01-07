@@ -53,4 +53,3 @@ def get_all():
 
 get_totals_club()
 get_all()
- 
