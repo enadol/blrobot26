@@ -30,6 +30,7 @@ def run(playwright: Playwright) -> None:
     page.get_by_role("link", name="Zustimmen & weiter").click()
     for i in range(1, MD+1):
         list_mdd_dates = get_mdd_dates(i, page)
+        #lst_dates_cumul.append(list_mdd_dates[0])
         lst_dates_cumul.extend(list_mdd_dates)
     #print(lst_dates_cumul)
     # ---------------------

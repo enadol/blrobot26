@@ -200,14 +200,16 @@ def actualizar_open(TORNEO, lst_match, lst_jornadas, dates_final):
         for g, line in enumerate(lst_match):
             # En lugar de usar lst_match.index(line), es más eficiente usar enumerate(lst_match)
             # para obtener el índice 'g' y el valor 'line' directamente.
-            if count_jornadas == 16:
-                divider = 7
-            elif count_jornadas == 17:
-                divider = 8
-            else:
-                divider = 9
 
-            if (g % divider == 0) is True:
+#            if count_jornadas == 16:
+#                divider = 7
+#            elif count_jornadas == 17:
+#                divider = 8
+#            else:
+#                divider = 9
+#
+#            if g % divider == 0:
+            if (g % 9 == 0) is True:
                 if count_jornadas < len(dates_final):
                     file.write(lst_jornadas[count_jornadas] + "\n")
                     file.write(dates_final[count_jornadas] + '\n')

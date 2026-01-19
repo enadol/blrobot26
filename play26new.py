@@ -27,7 +27,7 @@ def run(playwright: Playwright) -> None:
     context = browser.new_context()
     page = context.new_page()
     page.goto("https://www.kicker.de/")
-    page.get_by_role("link", name="Zustimmen & weiter").click()
+    page.get_by_role("link", name="Zustimmen & weiter").click(timeout=60000)
     get_clubes_stats(page)
     # ---------------------
     context.close()
@@ -60,26 +60,39 @@ dates_final = convert_dates(lst_dates_cumul)
 
 def get_clubes_stats(page):
     """Function to get the clubs stats from the Bundesliga page"""
-    page.goto(f'https://kicker.de/bundesliga/spieltag/{TORNEO}/-1')
+    page.goto(f'https://kicker.de/bundesliga/spieltag/{TORNEO}/-1', timeout=60000)
     clubes = page.locator(".kick__v100-gameCell__team__name").all_inner_texts()
     jornadas = page.locator(".kick__section-headline").all_inner_texts()
     goles = page.locator(".kick__v100-scoreBoard__scoreHolder__score").all_inner_texts()
     # para torneo 2025 solamente o irregularidades cambiando el index
-    goles.insert(486, "0")
-    goles.insert(487, "2")
+    #goles.insert(486, "0")
+    #goles.insert(487, "2")
     lst_clubes = clubes
+    # por partidos suspendidos por nevadas torneo 2025/26
+    del lst_clubes[284]
+    del lst_clubes[284]
+    del lst_clubes[284]
+    del lst_clubes[284]
+    del lst_clubes[300]
+    del lst_clubes[300]
+
+
     lst_goles = goles
     for jornada in jornadas:
         lst_jornadas.append(jornada)
 
     classify_teams(lst_clubes)
+
+
+
     get_goals_away_indexes(lst_goles)
     get_goals_home_indexes(lst_goles)
     set_goles_home(lst_goles)
     set_goles_away(lst_goles)
     goles_class()
     match_in()
-    me_robot()
+    actualizar_open(TORNEO, lst_match, lst_jornadas, dates_final)
+    #me_robot()
     #print(len(clubes))
     #print(len(jornadas))
     #print(len(goles))
@@ -148,22 +161,56 @@ def match_in():
  {lst_away[i]}\n')
     return lst_match
 
-def me_robot():
-    """Function to write the match data into a text file with the tournament name"""
-    with codecs.open(f'C:/Users/enado/Proyectos/Python33/merobot/\
-bundesliga-{TORNEO[:2]}{TORNEO[5:]}.txt', "w", "utf-8") as file:
-        file.write("\ufeff")
+#def me_robot():
+#    """Function to write the match data into a text file with the tournament name"""
+#    with codecs.open(f'C:/Users/enado/Proyectos/Python33/merobot/bundesliga-{TORNEO[:2]}{TORNEO[5:]}.txt', "w", "utf-8") as file:
+#        file.write("\ufeff")
+#        count_jornadas = 0
+#        for g, line in enumerate(lst_match):
+#            #g = lst_match.index(line)
+#            if count_jornadas == 16:
+#                divider = 7
+#            elif count_jornadas == 17:
+#                divider = 8
+#            else:
+#                divider = 9
+#
+#            if g % divider == 0:
+#                file.write(lst_jornadas[count_jornadas] + "\n")
+#                if count_jornadas < len(dates_final):
+#                    file.write(dates_final[count_jornadas] + '\n')
+#                file.write(f'    {line}')
+#                count_jornadas += 1
+#            else:
+#                file.write(f'    {line}')
+
+def actualizar_open(TORNEO, lst_match, lst_jornadas, dates_final):
+    """Function to write the match data into a text file with the tournament name using open()"""
+    # La ruta y el nombre del archivo se construyen igual.
+    # Usamos 'w' para escribir (write) y 'encoding="utf-8"' para especificar la codificación.
+    with open(f'C:/Users/enado/Proyectos/Python33/merobot/bundesliga-{TORNEO[:2]}{TORNEO[5:]}.txt', "w", encoding="utf-8") as file:
+        
+        # El carácter '\ufeff' (BOM - Byte Order Mark) ya no suele ser necesario 
+        # cuando se usa 'utf-8' de forma estándar en 'open()', pero si es vital 
+        # para tu aplicación, lo mantienes. Para archivos que solo contienen 
+        # texto, normalmente se omite.
+        # file.write("\ufeff") 
+        # lista para manejar discrepancias en el número de partidos por jornada
+        # CORREGIR SEGÚN TORNEO
+        line_exceptions=[0, 9, 18, 27, 36, 45, 54, 63, 72, 81, 90, 99, 108, 117, 126, 135, 142, 150]
         count_jornadas = 0
-        for line in lst_match:
-            g = lst_match.index(line)
-            if g % 9 == 0:
-                file.write(lst_jornadas[count_jornadas] + "\n")
+        for g, line in enumerate(lst_match):
+            # En lugar de usar lst_match.index(line), es más eficiente usar enumerate(lst_match)
+            # para obtener el índice 'g' y el valor 'line' directamente.
+            if g in line_exceptions:
                 if count_jornadas < len(dates_final):
+                    file.write(lst_jornadas[count_jornadas] + "\n")
                     file.write(dates_final[count_jornadas] + '\n')
-                file.write(f'    {line}')
+                    file.write(f'    {line}')
                 count_jornadas += 1
             else:
                 file.write(f'    {line}')
+            
 
 with sync_playwright() as playwright:
     run(playwright)
