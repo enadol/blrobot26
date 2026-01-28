@@ -74,7 +74,7 @@ def get_clubes_stats(page):
     #del lst_clubes[284]
     #del lst_clubes[284]
     del lst_clubes[304]
-    del lst_clubes[305]
+    del lst_clubes[304]
 
 
     lst_goles = goles
@@ -197,7 +197,7 @@ def actualizar_open(TORNEO, lst_match, lst_jornadas, dates_final):
         # file.write("\ufeff") 
         # lista para manejar discrepancias en el número de partidos por jornada
         # CORREGIR SEGÚN TORNEO
-        line_exceptions=[0, 9, 18, 27, 36, 45, 54, 63, 72, 81, 90, 99, 108, 117, 126, 135, 144, 153, 162]
+        line_exceptions=[0, 9, 18, 27, 36, 45, 54, 63, 72, 81, 90, 99, 108, 117, 126, 135, 143, 152, 161]
         count_jornadas = 0
         for g, line in enumerate(lst_match):
             # En lugar de usar lst_match.index(line), es más eficiente usar enumerate(lst_match)
