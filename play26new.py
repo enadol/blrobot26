@@ -69,12 +69,12 @@ def get_clubes_stats(page):
     #goles.insert(487, "2")
     lst_clubes = clubes
     # por partidos suspendidos por nevadas torneo 2025/26
-    del lst_clubes[284]
-    del lst_clubes[284]
-    del lst_clubes[284]
-    del lst_clubes[284]
-    del lst_clubes[300]
-    del lst_clubes[300]
+    #del lst_clubes[284]
+    #del lst_clubes[284]
+    #del lst_clubes[284]
+    #del lst_clubes[284]
+    #del lst_clubes[300]
+    #del lst_clubes[300]
 
 
     lst_goles = goles
@@ -197,7 +197,7 @@ def actualizar_open(TORNEO, lst_match, lst_jornadas, dates_final):
         # file.write("\ufeff") 
         # lista para manejar discrepancias en el número de partidos por jornada
         # CORREGIR SEGÚN TORNEO
-        line_exceptions=[0, 9, 18, 27, 36, 45, 54, 63, 72, 81, 90, 99, 108, 117, 126, 135, 142, 150]
+        line_exceptions=[0, 9, 18, 27, 36, 45, 54, 63, 72, 81, 90, 99, 108, 117, 126, 135, 142, 150, 159]
         count_jornadas = 0
         for g, line in enumerate(lst_match):
             # En lugar de usar lst_match.index(line), es más eficiente usar enumerate(lst_match)
