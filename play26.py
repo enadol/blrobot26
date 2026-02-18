@@ -23,7 +23,7 @@ dates_final = []
 
 def run(playwright: Playwright) -> None:
     """Main function to run the Playwright script"""
-    browser = playwright.chromium.launch(headless=False)
+    browser = playwright.chromium.launch(headless=True)
     context = browser.new_context()
     page = context.new_page()
     page.goto("https://www.kicker.de/")
