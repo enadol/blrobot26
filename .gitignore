@@ -9,3 +9,6 @@ transfer_server.py
 *.log
 *.csv
 requirements.txt
+*.bat
+*.sh
+*.md
