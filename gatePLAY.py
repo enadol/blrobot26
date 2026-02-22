@@ -32,7 +32,7 @@ def run(playwright: Playwright) -> None:
         list_mdd_dates = get_mdd_dates(i, page)
         #lst_dates_cumul.append(list_mdd_dates[0])
         lst_dates_cumul.extend(list_mdd_dates)
-    #print(lst_dates_cumul)
+    #print(sorted(set(lst_dates_cumul)))
     # ---------------------
     context.close()
     browser.close()
