@@ -1,5 +1,4 @@
 """import packages"""
-import codecs
 from datetime import datetime
 from playwright.sync_api import Playwright, sync_playwright
 from gatePLAY import lst_dates_cumul, TORNEO
