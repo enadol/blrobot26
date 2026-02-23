@@ -26,7 +26,7 @@ def run(playwright: Playwright) -> None:
     context = browser.new_context()
     page = context.new_page()
     page.goto("https://www.kicker.de/")
-    page.get_by_role("link", name="Zustimmen & weiter").click(timeout=60000)
+    #page.get_by_role("link", name="Zustimmen & weiter").click(timeout=60000)
     get_clubes_stats(page)
     # ---------------------
     context.close()

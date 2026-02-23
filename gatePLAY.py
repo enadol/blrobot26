@@ -23,7 +23,7 @@ def get_mdd_dates(mday, page):
 
 def run(playwright: Playwright) -> None:
     """Main function to run the Playwright script"""
-    browser = playwright.chromium.launch(headless=True)
+    browser = playwright.chromium.launch(headless=False)
     context = browser.new_context()
     page = context.new_page()
     page.goto("https://www.kicker.de/")
