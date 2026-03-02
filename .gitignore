@@ -1,6 +1,7 @@
 .venv/
 .vscode/
 __pycache__/
+deprecated/
 *.pyc
 transfer_server.py
 *.sqlite
