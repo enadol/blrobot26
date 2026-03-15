@@ -4,6 +4,7 @@ __pycache__/
 deprecated/
 *.pyc
 transfer_server.py
+to_git.py
 *.sqlite
 *.sqlite3
 *cfg
