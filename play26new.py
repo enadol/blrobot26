@@ -1,7 +1,7 @@
 """import packages"""
 from datetime import datetime
 from playwright.sync_api import Playwright, sync_playwright
-from gatePLAY import lst_dates_cumul, TORNEO
+from gatePLAY import lst_dates_cumul, TORNEO, MD
 
 # WORKFLOW -> sel25 -> MEROBOT A GIT EN SHELL - LAUNCHWD
 
@@ -196,7 +196,9 @@ def actualizar_open(TORNEO, lst_match, lst_jornadas, dates_final):
         # file.write("\ufeff") 
         # lista para manejar discrepancias en el número de partidos por jornada
         # CORREGIR SEGÚN TORNEO
-        line_exceptions=[0, 9, 18, 27, 36, 45, 54, 63, 72, 81, 90, 99, 108, 117, 126, 135, 144, 153, 162, 171, 180, 189, 198, 207, 216]
+        #line_exceptions=[0, 9, 18, 27, 36, 45, 54, 63, 72, 81, 90, 99, 108, 117, 126, 135, 144, 153, 162, 171, 180, 189, 198, 207, 216]
+        line_exceptions=[i*9 for i in range(0, MD)]
+        print(line_exceptions)
         count_jornadas = 0
         for g, line in enumerate(lst_match):
             # En lugar de usar lst_match.index(line), es más eficiente usar enumerate(lst_match)
