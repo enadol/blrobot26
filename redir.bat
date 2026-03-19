@@ -1,1 +1,0 @@
-del season25.sqlite
