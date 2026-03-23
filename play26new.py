@@ -67,7 +67,7 @@ def get_clubes_stats(page):
     #goles.insert(486, "0")
     #goles.insert(487, "2")
     lst_clubes = clubes
-    # por partidos suspendidos por nevadas torneo 2025/26
+    # por partidos suspendidos etc. Ajustar según el torneo y la situación. La lista contene TODOS los goles
     #del lst_clubes[284]
     #del lst_clubes[284]
     #del lst_clubes[284]
@@ -196,7 +196,9 @@ def actualizar_open(TORNEO, lst_match, lst_jornadas, dates_final):
         # file.write("\ufeff") 
         # lista para manejar discrepancias en el número de partidos por jornada
         # CORREGIR SEGÚN TORNEO
+        # MANUAL SI HAY JORNADAS CON OTRO NÚMERO DE PARTIDOS, AJUSTAR LOS VALORES EN LA LISTA DE EXCEPCIONES Y DESCOMENTAR
         #line_exceptions=[0, 9, 18, 27, 36, 45, 54, 63, 72, 81, 90, 99, 108, 117, 126, 135, 144, 153, 162, 171, 180, 189, 198, 207, 216]
+        # SI TODAS LAS JORNADAS TIENEN 9 PARTIDOS DEJAR ESTE AUTOMÁTICO
         line_exceptions=[i*9 for i in range(0, MD)]
         print(line_exceptions)
         count_jornadas = 0
